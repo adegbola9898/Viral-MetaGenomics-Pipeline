@@ -1,0 +1,22 @@
+# Raw data
+data/raw/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignments and large intermediates
+*.bam
+*.bai
+*.sam
+*.cram
+*.vcf.gz
+*.csi
+
+# Conda / notebooks / temp
+.ipynb_checkpoints/
+*.tmp
+*.log
+
+# OS/editor
+.DS_Store

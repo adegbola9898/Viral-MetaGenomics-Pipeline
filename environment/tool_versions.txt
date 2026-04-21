@@ -1,0 +1,27 @@
+# Tool versions
+
+Tue Apr 21 19:34:07 UTC 2026
+
+Python 3.11.15
+conda 26.3.2
+FastQC v0.12.1
+fastp 1.3.2
+
+Program: bwa (alignment via Burrows-Wheeler transformation)
+Version: 0.7.19-r1273
+/opt/conda/envs/viralmeta/bin/bowtie2-align-s version 2.5.5
+samtools 1.23.1
+Using htslib 1.23.1
+Copyright (C) 2025 Genome Research Ltd.
+bedtools v2.31.1
+bcftools 1.23.1
+Using htslib 1.23.1
+Copyright (C) 2025 Genome Research Ltd.
+seqkit v2.13.0
+blastn: 2.17.0+
+v7.526 (2024/Apr/26)
+IQ-TREE version 3.1.1 for Linux x86 64-bit built Apr  8 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+

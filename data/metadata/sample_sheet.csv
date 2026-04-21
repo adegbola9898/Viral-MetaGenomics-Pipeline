@@ -1,0 +1,6 @@
+sample_id,host,R1,R2
+AIAMASHEEP002_S54,sheep,data/raw/AIAMASHEEP002_S54_R1_001.fastq.gz,data/raw/AIAMASHEEP002_S54_R2_001.fastq.gz
+AIAMA_GOT005_OS_S43,goat,data/raw/AIAMA_GOT005_OS_S43_R1_001.fastq.gz,data/raw/AIAMA_GOT005_OS_S43_R2_001.fastq.gz
+AIAMA_GOT007_OS_S45,goat,data/raw/AIAMA_GOT007_OS_S45_R1_001.fastq.gz,data/raw/AIAMA_GOT007_OS_S45_R2_001.fastq.gz
+AINWZDOG001_S37,dog,data/raw/AINWZDOG001_S37_R1_001.fastq.gz,data/raw/AINWZDOG001_S37_R2_001.fastq.gz
+AINWZDOG002_S38,dog,data/raw/AINWZDOG002_S38_R1_001.fastq.gz,data/raw/AINWZDOG002_S38_R2_001.fastq.gz
