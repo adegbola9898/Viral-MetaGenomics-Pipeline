@@ -114,3 +114,18 @@ A total of five samples were evaluated for adenovirus presence and genome recons
 These results highlight substantial variability in adenovirus signal strength across samples. While some samples support full genome reconstruction and downstream phylogenetic analysis, others show only fragmented or minimal evidence of viral presence.
 
 This distinction is critical for avoiding over-interpretation of low-abundance metagenomic detections.
+
+### Phylogenetic Analysis of Reconstructed Adenovirus Genomes
+
+Phylogenetic analysis was performed using maximum likelihood inference on an alignment of the reconstructed consensus genomes alongside representative adenovirus reference sequences.
+
+The resulting tree topology showed:
+
+- AIAMA_GOT005_OS_S43 clustered with X73487.1 (Human adenovirus type 12 lineage)
+- AINWZDOG001_S37 clustered with GU191019.1 (Human adenovirus type 18 lineage)
+
+Both placements were supported by strong bootstrap values (100), indicating high confidence in lineage assignment.
+
+Other adenovirus references formed distinct clades, clearly separating from the reconstructed genomes.
+
+These results are consistent with coverage and BLAST-based analyses, confirming that the detected genomes belong to AdV-12–like and AdV-18–like lineages, respectively.
