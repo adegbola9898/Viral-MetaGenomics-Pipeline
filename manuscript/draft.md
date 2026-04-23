@@ -47,3 +47,24 @@ BLAST analysis confirmed:
 Other adenovirus references showed substantially lower coverage breadth (<25%) and fragmented alignments, consistent with cross-mapping due to sequence similarity rather than independent viral signals.
 
 These results support the presence of a near-complete AdV-12–like genome in this sample.
+
+### Adenovirus Genome Reconstruction — AINWZDOG001_S37
+
+Mapping and coverage analysis identified a dominant adenovirus signal corresponding to reference GU191019.1 (Human adenovirus type 18).
+
+Per-reference coverage metrics were:
+- Coverage breadth: 98.06%
+- Mean depth: ~39.5×
+- Genome-wide distribution of reads
+
+Consensus genome reconstruction yielded a ~34 kb sequence with 336 variants relative to the reference.
+
+BLAST analysis confirmed:
+- Top hit: GU191019.1
+- Percent identity: 98.973%
+- Alignment length: 34,177 bp
+
+Other adenovirus references showed substantially lower coverage breadth (<25%) and fragmented alignments, consistent with cross-mapping due to sequence similarity rather than independent viral signals.
+
+These results support the presence of a near-complete AdV-18–like genome in this sample.
+
