@@ -68,3 +68,13 @@ Other adenovirus references showed substantially lower coverage breadth (<25%) a
 
 These results support the presence of a near-complete AdV-18–like genome in this sample.
 
+### Adenovirus Mapping and Coverage — AINWZDOG002_S38
+
+Mapping and per-reference coverage analysis identified the strongest signal against GU191019.1 (Human adenovirus type 18). However, coverage breadth was limited:
+
+- Coverage breadth: 26.95%
+- Mean depth: ~6.9×
+
+All other adenovirus references showed even lower breadth (<5%). These results indicate a partial AdV-18–like signal, but do not support reconstruction of a near-complete genome for this sample.
+
+Accordingly, this sample was retained as a lower-confidence adenovirus-positive sample and not advanced to full genome reconstruction at this stage.
