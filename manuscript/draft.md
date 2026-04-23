@@ -26,3 +26,24 @@ Per-reference coverage analysis revealed a dominant signal corresponding to Huma
 Other adenovirus references showed substantially lower coverage breadth (<25%), with localized high-depth regions consistent with sequence similarity rather than independent viral signals.
 
 These results support the presence of a near-complete AdV-12–like genome in this sample.
+
+
+### Adenovirus Genome Reconstruction — AIAMA_GOT005_OS_S43
+
+Mapping and coverage analysis identified a dominant adenovirus signal corresponding to reference X73487.1 (Human adenovirus type 12).
+
+Per-reference coverage metrics were:
+- Coverage breadth: 96.5%
+- Mean depth: ~47×
+- Genome-wide distribution of reads
+
+Consensus genome reconstruction yielded a ~34 kb sequence with 486 variants relative to the reference.
+
+BLAST analysis confirmed:
+- Top hit: X73487.1
+- Percent identity: 98.492%
+- Alignment length: 34,155 bp
+
+Other adenovirus references showed substantially lower coverage breadth (<25%) and fragmented alignments, consistent with cross-mapping due to sequence similarity rather than independent viral signals.
+
+These results support the presence of a near-complete AdV-12–like genome in this sample.
