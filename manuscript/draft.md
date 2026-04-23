@@ -95,3 +95,22 @@ Accordingly, this sample was retained as a low-confidence adenovirus-positive sa
 Read mapping identified only trace adenovirus-like signal in this sample. A total of 20 reads mapped to AC_000007.1, while all other adenovirus references had zero mapped reads.
 
 This level of signal was considered below the threshold for meaningful validation. Accordingly, this sample was not advanced to per-reference coverage analysis, consensus genome reconstruction, or BLAST-based genome validation.
+
+### Summary of Adenovirus Detection Across Samples
+
+A total of five samples were evaluated for adenovirus presence and genome reconstruction.
+
+- Two samples yielded near-complete genomes:
+  - AIAMA_GOT005_OS_S43 (AdV-12–like)
+  - AINWZDOG001_S37 (AdV-18–like)
+
+- One sample showed partial adenovirus signal:
+  - AINWZDOG002_S38 (partial AdV-18–like)
+
+- Two samples showed weak or trace signal:
+  - AIAMA_GOT007_OS_S45 (weak partial signal)
+  - AIAMASHEEP002_S54 (trace signal; 20 reads only)
+
+These results highlight substantial variability in adenovirus signal strength across samples. While some samples support full genome reconstruction and downstream phylogenetic analysis, others show only fragmented or minimal evidence of viral presence.
+
+This distinction is critical for avoiding over-interpretation of low-abundance metagenomic detections.
