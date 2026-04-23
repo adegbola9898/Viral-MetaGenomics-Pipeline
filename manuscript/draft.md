@@ -89,3 +89,9 @@ Mapping and per-reference coverage analysis identified only weak partial adenovi
 Other references showed similarly low breadth (<10–12%), indicating sparse and fragmented alignment rather than genome-wide support. These results do not support reconstruction of a near-complete adenovirus genome for this sample.
 
 Accordingly, this sample was retained as a low-confidence adenovirus-positive sample and not advanced to consensus genome reconstruction or BLAST-based genome validation.
+
+### Adenovirus Mapping — AIAMASHEEP002_S54
+
+Read mapping identified only trace adenovirus-like signal in this sample. A total of 20 reads mapped to AC_000007.1, while all other adenovirus references had zero mapped reads.
+
+This level of signal was considered below the threshold for meaningful validation. Accordingly, this sample was not advanced to per-reference coverage analysis, consensus genome reconstruction, or BLAST-based genome validation.
