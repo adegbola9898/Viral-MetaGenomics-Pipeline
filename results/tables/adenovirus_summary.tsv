@@ -2,3 +2,4 @@ sample_id	reference	coverage_breadth_pct	mean_depth	blast_pident	blast_length	ca
 AIAMA_GOT005_OS_S43	X73487.1	96.4982	46.7213	98.492	34155	AdV-12-like (near-complete)
 AINWZDOG001_S37	GU191019.1	98.0601	39.5213	98.973	34177	AdV-18-like (near-complete)
 AINWZDOG002_S38	GU191019.1	26.9479	6.93554	NA	NA	Partial AdV-18-like signal (insufficient for near-complete genome)
+AIAMA_GOT007_OS_S45	MG925783.1	11.9904	7.28911	NA	NA	Weak partial adenovirus-like signal (insufficient for genome reconstruction)

@@ -78,3 +78,14 @@ Mapping and per-reference coverage analysis identified the strongest signal agai
 All other adenovirus references showed even lower breadth (<5%). These results indicate a partial AdV-18–like signal, but do not support reconstruction of a near-complete genome for this sample.
 
 Accordingly, this sample was retained as a lower-confidence adenovirus-positive sample and not advanced to full genome reconstruction at this stage.
+
+### Adenovirus Mapping and Coverage — AIAMA_GOT007_OS_S45
+
+Mapping and per-reference coverage analysis identified only weak partial adenovirus-like signal in this sample. The highest breadth of coverage was observed against MG925783.1, but remained limited:
+
+- Coverage breadth: 11.99%
+- Mean depth: ~7.3×
+
+Other references showed similarly low breadth (<10–12%), indicating sparse and fragmented alignment rather than genome-wide support. These results do not support reconstruction of a near-complete adenovirus genome for this sample.
+
+Accordingly, this sample was retained as a low-confidence adenovirus-positive sample and not advanced to consensus genome reconstruction or BLAST-based genome validation.
