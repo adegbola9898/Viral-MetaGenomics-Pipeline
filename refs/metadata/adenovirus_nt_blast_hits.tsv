@@ -1,0 +1,10 @@
+sample_id	accession	title	pident	alignment_length	qcovs	country	host	year	genome_status	include_in_tree	notes
+AIAMA_GOT005_OS_S43	MN901805.1	Human adenovirus 12 strain A12ONP02Cu1Aug2018, complete genome	98.721	34156	100	Unknown	Human	2018	complete	yes	Top complete-genome nt hit for goat AdV-12-like consensus
+AIAMA_GOT005_OS_S43	PP068617.1	Human adenovirus 12 isolate HAdV-A12/USA/8B8/2011, complete genome	98.551	34160	100	USA	Human	2011	complete	yes	High-coverage USA complete genome
+AIAMA_GOT005_OS_S43	PP068616.1	Human adenovirus 12 isolate HAdV-A12/USA/8B9/2011, complete genome	98.554	34156	100	USA	Human	2011	complete	yes	High-coverage USA complete genome
+AIAMA_GOT005_OS_S43	PQ336882.1	Human adenovirus 12 isolate HAdV_WGS-A/KENKLF_P_HFK1015/2023, partial genome	98.733	28008	99	Kenya	Human	2023	partial	yes	African contextual AdV-12 sequence
+AIAMA_GOT005_OS_S43	KX868289.2	Human adenovirus 12 isolate GyK010, complete genome	99.111	27558	99	Unknown	Human	Unknown	complete	yes	High-identity hit with split alignment
+AINWZDOG001_S37	OR609364.1	Human adenovirus 18 isolate BJ, complete genome	99.093	34063	100	Unknown	Human	Unknown	complete	yes	Top high-coverage complete AdV-18 hit
+AINWZDOG001_S37	GU191019.1	Human adenovirus 18 isolate D.C., complete genome	98.973	34177	100	Unknown	Human	Unknown	complete	yes	Original AdV-18 reference used for mapping and validation
+AINWZDOG001_S37	PX485696.1	Human adenovirus 18 isolate DOM01724_Dodoma, complete genome	99.680	33409	100	Tanzania	Human	Unknown	complete	yes	African contextual AdV-18 complete genome from Dodoma
+AINWZDOG001_S37	PX485695.1	Human adenovirus 18 isolate DOM01251_Dodoma, complete genome	99.677	33409	100	Tanzania	Human	Unknown	complete	yes	African contextual AdV-18 complete genome from Dodoma
