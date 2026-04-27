@@ -129,3 +129,15 @@ Both placements were supported by strong bootstrap values (100), indicating high
 Other adenovirus references formed distinct clades, clearly separating from the reconstructed genomes.
 
 These results are consistent with coverage and BLAST-based analyses, confirming that the detected genomes belong to AdV-12–like and AdV-18–like lineages, respectively.
+
+### Phylogenetic Placement and Public Health Context
+
+An expanded maximum-likelihood phylogeny was constructed using reconstructed consensus genomes, closest GenBank relatives, comparator references, and Nigerian clinical adenovirus sequences.
+
+The goat-derived genome (AIAMA_GOT005_OS_S43) clustered robustly within the Human mastadenovirus A lineage, specifically with Human adenovirus 12 (AdV-12) reference and related genomes, including an African sequence from Kenya. The short branch length and strong clustering support confirm that this genome represents a true AdV-12-like sequence rather than a spurious metagenomic detection.
+
+The dog-derived genome (AINWZDOG001_S37) clustered within the Human adenovirus 18 (AdV-18) lineage, forming a well-supported group with both global and African sequences, including isolates from Tanzania. This indicates that the detected genome is closely related to circulating AdV-18 lineages and suggests possible regional evolutionary relationships.
+
+In contrast, Nigerian clinical adenovirus sequences (AdV-40) formed a distinct and well-separated clade, indicating that the validated genomes in this study are not derived from the known enteric adenovirus strains currently associated with paediatric diarrhoeal disease in Nigeria.
+
+Together, these findings support a One Health interpretation in which human-associated adenovirus lineages (AdV-12-like and AdV-18-like) are detectable in animal-associated metagenomic samples, distinct from known clinical adenovirus circulation in the same geographic region.
