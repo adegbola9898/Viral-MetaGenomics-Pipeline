@@ -14,3 +14,11 @@ X73487.1	HAdV12_X73487_reference	Original_comparator	Human adenovirus 12	Human m
 JN226752.1	HAdV25_reference	Original_comparator	Human adenovirus 25	Human mastadenovirus D	Human	Unknown	Unknown	comparator	yes	Comparator reference
 AC_000007.1	HAdV2_reference	Original_comparator	Human adenovirus 2	Human mastadenovirus C	Human	Unknown	Unknown	comparator	yes	Comparator reference
 MG925783.1	HAdV41_reference	Original_comparator	Human adenovirus 41	Human mastadenovirus F	Human	Unknown	Unknown	comparator	yes	Enteric adenovirus comparator
+NC_001460.1	HAdV_A_RefSeq	Additional_HAdV_A_reference	Human adenovirus A / AdV-12-derived RefSeq	Human mastadenovirus A	Human	Unknown	2000	additional_reference	yes	RefSeq derived from X73487; useful as curated AdV-A reference context
+PX905700.1	HAdV_A_AS51_wastewater	Additional_HAdV_A_context	Human mastadenovirus A	Human mastadenovirus A	Human/wastewater	Bulgaria	2026	wastewater_context	yes	Recent wastewater-derived Human mastadenovirus A genome
+AC_000003.1	Canine_adenovirus_1	Outgroup	Canine adenovirus 1	Mastadenovirus canidae	Dog	Unknown	Unknown	outgroup	yes	Non-human mammalian mastadenovirus outgroup
+AC_000020.1	Canine_adenovirus_2	Outgroup	Canine adenovirus 2	Mastadenovirus canidae	Dog	Unknown	Unknown	outgroup	yes	Second canine mastadenovirus outgroup
+NC_001876.1	Bovine_adenovirus_3	Outgroup	Bovine adenovirus 3	Mastadenovirus bostertium	Cattle	Canada	Unknown	outgroup	yes	Non-human livestock mastadenovirus outgroup
+OQ744647.1	HAdV31_China_RV388_P6	Additional_HAdV_A_context	Human adenovirus 31	Human mastadenovirus A	Human	China	2015	additional_reference	yes	AdV-31 complete genome; expands Human mastadenovirus A diversity
+MN901806.1	HAdV61_A61ONP01Cu1Sep2018	Additional_HAdV_A_context	Human adenovirus 61	Human mastadenovirus A	Human	Canada	2018	additional_reference	yes	AdV-61 complete genome; expands Human mastadenovirus A diversity
+JF964962.1	HAdV61_Japan_2004_5082	Additional_HAdV_A_context	Human adenovirus 61	Human mastadenovirus A	Human	Japan	2004	additional_reference	yes	Additional AdV-61 genome; useful replicate/context sequence
