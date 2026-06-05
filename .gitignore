@@ -18,3 +18,9 @@ data/raw/
 
 # OS/editor
 .DS_Store
+
+# Generated indexes
+*.fai
+
+# Mapping QC
+*.flagstat.txt

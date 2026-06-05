@@ -141,3 +141,17 @@ The dog-derived genome (AINWZDOG001_S37) clustered within the Human adenovirus 1
 In contrast, Nigerian clinical adenovirus sequences (AdV-40) formed a distinct and well-separated clade, indicating that the validated genomes in this study are not derived from the known enteric adenovirus strains currently associated with paediatric diarrhoeal disease in Nigeria.
 
 Together, these findings support a One Health interpretation in which human-associated adenovirus lineages (AdV-12-like and AdV-18-like) are detectable in animal-associated metagenomic samples, distinct from known clinical adenovirus circulation in the same geographic region.
+
+
+
+### Rooted Expanded Adenovirus Phylogeny
+
+A rooted maximum-likelihood phylogeny was constructed using the validated study genomes, closest GenBank relatives, Nigerian clinical adenovirus sequences, additional Human mastadenovirus A references, and non-human mastadenovirus outgroups including canine and bovine adenoviruses.
+
+The goat-derived consensus genome (AIAMA_GOT005_OS_S43) clustered within the AdV-12 lineage, alongside global AdV-12 references and an African contextual sequence from Kenya. This supports the classification of the sequence as AdV-12-like and indicates that it belongs within established Human mastadenovirus A diversity.
+
+The dog-derived consensus genome (AINWZDOG001_S37) clustered within the AdV-18 lineage and grouped closely with Tanzanian AdV-18 genomes, providing African regional context for the detected sequence. This strengthens the interpretation that the dog sample contains a near-complete AdV-18-like genome rather than nonspecific adenovirus signal.
+
+The Nigerian clinical AdV-40 sequences formed a separate cluster from the validated AdV-12-like and AdV-18-like study genomes. This suggests that the animal-associated adenovirus genomes identified here are distinct from the previously reported Nigerian paediatric enteric AdV-40 sequences.
+
+The inclusion of canine and bovine adenoviruses as non-human mastadenovirus outgroups provided rooting context and confirmed that the study genomes fall within human-associated adenovirus lineages rather than non-human adenovirus clades.
