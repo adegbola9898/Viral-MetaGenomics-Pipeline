@@ -10,8 +10,6 @@ data/raw/
 *.bai
 *.sam
 *.cram
-*.vcf.gz
-*.csi
 
 # Conda / notebooks / temp
 .ipynb_checkpoints/
