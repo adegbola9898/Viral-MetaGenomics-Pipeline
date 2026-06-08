@@ -155,3 +155,42 @@ The dog-derived consensus genome (AINWZDOG001_S37) clustered within the AdV-18 l
 The Nigerian clinical AdV-40 sequences formed a separate cluster from the validated AdV-12-like and AdV-18-like study genomes. This suggests that the animal-associated adenovirus genomes identified here are distinct from the previously reported Nigerian paediatric enteric AdV-40 sequences.
 
 The inclusion of canine and bovine adenoviruses as non-human mastadenovirus outgroups provided rooting context and confirmed that the study genomes fall within human-associated adenovirus lineages rather than non-human adenovirus clades.
+
+
+
+## Results
+
+### Validation of Candidate Adenovirus Detections
+
+Five samples previously identified as adenovirus-positive during the initial metagenomic screening were selected for read-level validation and genome reconstruction. To assess the robustness of these detections, raw sequencing reads were mapped against an adenovirus reference panel and evaluated using genome coverage, sequencing depth, and consensus genome recovery metrics.
+
+Substantial differences in adenovirus signal strength were observed among the five samples. Two samples, AIAMA_GOT005_OS_S43 and AINWZDOG001_S37, demonstrated extensive genome-wide coverage and sufficient read depth to support near-complete genome reconstruction. Sample AIAMA_GOT005_OS_S43 achieved 96.5% genome coverage breadth with a mean sequencing depth of 46.7×, while sample AINWZDOG001_S37 achieved 98.1% genome coverage breadth with a mean sequencing depth of 39.5×. These samples were therefore selected for downstream comparative genomic and phylogenetic analyses.
+
+A third sample, AINWZDOG001_S37, showed evidence of adenovirus signal but with substantially lower genome representation, achieving only 26.9% coverage breadth and a mean depth of 6.9×. Similarly, sample AIAMA_GOT007_OS_S45 exhibited weak adenovirus-associated signal with 12.0% genome coverage breadth and a mean depth of 7.3×. Although these findings support the presence of adenovirus-related sequence fragments, the coverage obtained was insufficient for reliable near-complete genome reconstruction.
+
+The fifth sample, AIAMASHEEP002_S54, produced only trace adenovirus-like mapping signal and failed to meet minimum validation criteria for downstream genomic characterization. Consequently, no consensus genome was generated from this sample.
+
+Overall, read-level validation reduced five candidate adenovirus-positive samples to two high-confidence genomes suitable for detailed genomic investigation, highlighting the importance of secondary validation following metagenomic taxonomic assignment.
+
+### Recovery and BLAST Characterization of Near-Complete Adenovirus Genomes
+
+Reference-guided consensus reconstruction generated two near-complete adenovirus genomes from the validated samples. The consensus genome recovered from goat sample AIAMA_GOT005_OS_S43 was 34,141 bp in length and exhibited 96.5% genome coverage breadth with a mean sequencing depth of 46.7×. The consensus genome recovered from dog sample AINWZDOG001_S37 was 34,157 bp in length and exhibited 98.1% genome coverage breadth with a mean sequencing depth of 39.5×.
+
+BLASTn analysis confirmed that both recovered genomes were most closely related to Human mastadenovirus A lineages. The goat-derived genome showed strongest similarity to complete Human adenovirus 12 genomes, including strain A12ONP02Cu1Aug2018 (MN901805.1) and multiple additional HAdV-12 reference genomes. Genome-scale alignments demonstrated approximately 98.5–98.7% nucleotide identity across ~34 kb of aligned sequence, supporting classification of this genome as an AdV-12-like adenovirus.
+
+The dog-derived genome showed strongest similarity to Human adenovirus 18. The top BLAST match was GU191019.1, with 98.973% nucleotide identity across a 34,177 bp alignment and an E-value of 0.0. Additional high-scoring matches included complete AdV-18 genomes from Tanzania, indicating close evolutionary relationships within the Human mastadenovirus A group. Based on these results, the recovered genome was classified as an AdV-18-like adenovirus.
+
+Together, these findings demonstrate that two independent animal-associated metagenomic samples contained sufficient adenovirus sequence signal to support near-complete genome reconstruction and comparative genomic characterization.
+
+
+### Genome-Wide Sequence Variation in Recovered Adenovirus Genomes
+
+Variant analysis identified substantial genetic divergence between the recovered genomes and their respective reference sequences. A total of 487 variants were detected in the AdV-12-like genome recovered from goat sample AIAMA_GOT005_OS_S43, while 336 variants were detected in the AdV-18-like genome recovered from dog sample AINWZDOG001_S37.
+
+For the goat-derived genome, the majority of variants were synonymous substitutions (n = 284), followed by missense substitutions (n = 123). Additional variants included noncoding changes (n = 59), insertion/deletion events (n = 13), and three stop-lost mutations. Similarly, the dog-derived genome contained 225 synonymous substitutions and 81 missense substitutions, together with 10 noncoding variants, five insertion/deletion events, three nonsense mutations, and seven stop-lost mutations.
+
+Genome-wide visualization of coding variants demonstrated that sequence variation was distributed across multiple adenoviral genes rather than being confined to a single genomic region. Variants were observed in early regulatory genes, including E1A and E1B, as well as structural and replication-associated genes such as DNA polymerase, DNA-binding protein, hexon, penton, fiber, and E4-associated coding regions. Both genomes exhibited a predominance of synonymous substitutions relative to amino-acid-altering mutations, suggesting substantial nucleotide divergence while maintaining overall conservation of protein-coding sequences.
+
+The observed distribution of coding variants across multiple functional regions indicates that the recovered genomes represent naturally diverged adenovirus lineages rather than isolated sequence fragments or localized assembly artifacts.
+
+
