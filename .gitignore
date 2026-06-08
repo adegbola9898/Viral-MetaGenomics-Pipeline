@@ -32,3 +32,9 @@ data/raw/
 *.nsq
 *.ntf
 *.nto
+
+# Assembly intermediates
+results/intermediate/assembly/
+
+# Temporary reference FASTAs generated during consensus
+results/intermediate/consensus/*.ref.fa
