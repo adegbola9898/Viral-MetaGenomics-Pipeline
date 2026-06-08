@@ -1,0 +1,617 @@
+sample_id	reference	position	ref	alt	qual	depth	mapping_quality	variant_type	region_type	gene	product	feature_location	strand	effect	codon_position	ref_codon	alt_codon	ref_aa	alt_aa	aa_position	effect_gene	effect_product
+AIAMA_GOT005_OS_S43	X73487.1	508	A	G	225.417	55	60	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	synonymous	3	AGA	AGG	R	R	2		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	709	T	C	225.417	47	60	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	synonymous	3	CTT	CTC	L	L	69		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	751	T	G	225.417	73	60	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	synonymous	3	CCT	CCG	P	P	83		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	805	C	G	225.422	113	56	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	missense	3	CAC	CAG	H	Q	101		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	836	A	G	225.417	135	56	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	missense	1	ATG	GTG	M	V	112		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	858	C	T	225.417	104	60	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	missense	2	TCG	TTG	S	L	119		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	865	C	T	225.417	103	60	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	synonymous	3	GAC	GAT	D	D	121		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	946	G	A	225.417	93	60	SNV	CDS		unnamed protein product; E1A; transcription activation; early protein; alternati	[502:1099](+)	1	synonymous	3	CAG	CAA	Q	Q	148		unnamed protein product; E1A; transcription activation; early protein; alternati
+AIAMA_GOT005_OS_S43	X73487.1	1607	A	G	225.417	48	53	SNV	CDS		E1B protein, small T-antigen	[1541:2033](+)	1	synonymous	3	AAA	AAG	K	K	22		E1B protein, small T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	1628	G	A	138.096	64	57	SNV	CDS		E1B protein, small T-antigen	[1541:2033](+)	1	synonymous	3	AGG	AGA	R	R	29		E1B protein, small T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	1661	A	C	225.417	66	60	SNV	CDS		E1B protein, small T-antigen	[1541:2033](+)	1	synonymous	3	GTA	GTC	V	V	40		E1B protein, small T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	1746	T	C	225.417	36	60	SNV	CDS		E1B protein, small T-antigen	[1541:2033](+)	1	missense	1	TAC	CAC	Y	H	69		E1B protein, small T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	1905	C	T	225.417	121	59	SNV	CDS		E1B protein, small T-antigen;E1B protein, large T-antigen	[1541:2033](+);[1846:3295](+)	1;1	synonymous;missense	1;2	CTG;GCT	TTG;GTT	L;A	L;V	122;20	;	E1B protein, small T-antigen;E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	2105	G	A	225.417	48	60	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	missense	1	GAT	AAT	D	N	87		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	2176	C	T	225.417	27	60	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	synonymous	3	TCC	TCT	S	S	110		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	2275	A	G	228.339	68	59	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	synonymous	3	AAA	AAG	K	K	143		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	2476	C	A	225.417	45	60	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	synonymous	3	GGC	GGA	G	G	210		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	2734	A	G	225.417	42	60	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	synonymous	3	GTA	GTG	V	V	296		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	2915	G	A	225.417	63	60	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	missense	1	GTT	ATT	V	I	357		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	3034	C	T	224.251	84	59	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	synonymous	3	TTC	TTT	F	F	396		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	3175	T	C	225.417	77	60	SNV	CDS		E1B protein, large T-antigen	[1846:3295](+)	1	synonymous	3	GGT	GGC	G	G	443		E1B protein, large T-antigen
+AIAMA_GOT005_OS_S43	X73487.1	3708	A	G	225.417	21	60	SNV	CDS		hexon associated protein (Protein IX)	[3373:3808](+)	1	missense	2	AAG	AGG	K	R	112		hexon associated protein (Protein IX)
+AIAMA_GOT005_OS_S43	X73487.1	3865	G	A	225.417	21	60	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	missense	3	CAG	CAT	Q	H	446		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	4132	A	G	225.417	30	60	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	synonymous	3	GCA	GCC	A	A	357		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	4162	T	G	225.417	30	60	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	synonymous	3	AGT	AGC	S	S	347		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	4255	G	A	225.417	22	60	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	missense	3	TGG	TGT	W	C	316		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	4270	C	T	225.417	21	60	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	missense	3	TTC	TTA	F	L	311		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	4798	C	T	225.417	43	59	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	missense	3	TTC	TTA	F	L	135		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	4947	T	C	225.417	21	60	SNV	CDS		maturation protein (protein IVA2)	[3843:5202](-)	-1	missense	1	TAT	GAT	Y	D	86		maturation protein (protein IVA2)
+AIAMA_GOT005_OS_S43	X73487.1	5544	C	T	225.417	24	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	3	GAC	GAA	D	E	865		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	5547	T	G	225.417	26	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	GGT	GGC	G	G	864		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	5931	C	T	225.417	25	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	CGC	CGA	R	R	736		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6035	G	A	228.287	21	58	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	1	GAC	TAC	D	Y	702		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6060	A	G	225.417	34	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	3	TTA	TTC	L	F	693		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6268	C	T	225.417	43	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	2	TCT	TAT	S	Y	624		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6273	A	G	225.417	43	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	ACA	ACC	T	T	622		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6402	T	C	225.417	15	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	GTT	GTG	V	V	579		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6486	G	A	225.417	39	59	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	ACG	ACT	T	T	551		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6711	T	C	225.417	43	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	CGT	CGG	R	R	476		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6717	G	A	225.417	44	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	CTG	CTT	L	L	474		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6965	C	T	225.417	18	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	1	CAT	AAT	H	N	392		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	6975	C	G	225.417	19	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	GGC	GGC	G	G	388		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7028	A	G	225.417	23	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	1	AAT	CAT	N	H	371		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7029	A	G	225.417	23	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	3	AGA	AGC	R	S	370		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7260	C	T	225.417	22	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	GTC	GTA	V	V	293		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7422	C	T	225.417	14	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	3	AAC	AAA	N	K	239		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7476	T	C	225.417	24	60	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	synonymous	3	GTT	GTG	V	V	221		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7557	T	C	228.365	45	59	SNV	CDS		DNA polymerase	[4952:8138](-)	-1	missense	3	TTT	TTG	F	L	194		DNA polymerase
+AIAMA_GOT005_OS_S43	X73487.1	7671	T	C	225.417	55	60	SNV	CDS		DNA polymerase;unnamed protein product; DNA-binding protein; homologue to crossref SWISS-PROT:D	[4952:8138](-);[7601:8219](+)	-1;1	synonymous;missense	3;1	CGT;TGC	CGG;CGC	R;C	R;R	156;24	;	DNA polymerase;unnamed protein product; DNA-binding protein; homologue to crossref SWISS-PROT:D
+AIAMA_GOT005_OS_S43	X73487.1	7994	C	T	225.417	44	60	SNV	CDS		DNA polymerase;unnamed protein product; DNA-binding protein; homologue to crossref SWISS-PROT:D	[4952:8138](-);[7601:8219](+)	-1;1	missense;synonymous	1;3	CCA;ACC	ACA;ACT	P;T	T;T	49;131	;	DNA polymerase;unnamed protein product; DNA-binding protein; homologue to crossref SWISS-PROT:D
+AIAMA_GOT005_OS_S43	X73487.1	8043	C	G	224.417	11	60	SNV	CDS		DNA polymerase;unnamed protein product; DNA-binding protein; homologue to crossref SWISS-PROT:D	[4952:8138](-);[7601:8219](+)	-1;1	synonymous;missense	3;1	TCC;CCT	TCC;GCT	S;P	S;A	32;148	;	DNA polymerase;unnamed protein product; DNA-binding protein; homologue to crossref SWISS-PROT:D
+AIAMA_GOT005_OS_S43	X73487.1	8453	G	A	225.417	37	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GCG	GCT	A	A	560		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	8693	C	T	225.417	38	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GCC	GCA	A	A	480		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9035	A	G	225.417	60	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	missense	3	GAA	GAC	E	D	366		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9085	T	A	225.417	51	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	1	TAT	TAT	Y	Y	350		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9155	A	T	225.417	33	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GCA	GCA	A	A	326		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9173	C	T	225.417	38	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	TCC	TCA	S	S	320		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9251	T	C	225.417	53	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GCT	GCG	A	A	294		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9386	G	A	225.417	37	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	TCG	TCT	S	S	249		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9494	C	T	140.416	38	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GTC	GTA	V	V	213		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9550	T	C	225.417	23	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	missense	1	TGG	GGG	W	G	195		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9776	T	C	80.766	15	55	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GTT	GTG	V	V	119		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9860	T	A	225.417	20	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	TGT	TGT	C	C	91		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9884	T	C	225.417	31	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	3	GTT	GTG	V	V	83		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	9989	G	A	225.417	38	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	missense	3	AAG	AAT	K	N	48		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	10024	C	G	225.417	26	60	SNV	CDS		DNA terminal protein	[8311:10132](-)	-1	synonymous	1	CCG	CCG	P	P	37		DNA terminal protein
+AIAMA_GOT005_OS_S43	X73487.1	10627	T	C	225.417	19	60	SNV	CDS		52 KD protein	[10427:11549](+)	1	missense	2	GTG	GCG	V	A	67		52 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	10754	T	G	225.417	23	60	SNV	CDS		52 KD protein	[10427:11549](+)	1	synonymous	3	CGT	CGG	R	R	109		52 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	10895	C	T	225.417	48	60	SNV	CDS		52 KD protein	[10427:11549](+)	1	synonymous	3	CGC	CGT	R	R	156		52 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	11734	G	A	225.417	27	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CAG	CAA	Q	Q	55		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	11923	G	C	225.417	37	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GTG	GTC	V	V	118		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12163	A	G	225.417	34	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CAA	CAG	Q	Q	198		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12263	T	C	225.417	51	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	1	TTG	CTG	L	L	232		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12298	A	G	225.417	54	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	TTA	TTG	L	L	243		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12358	T	C	225.417	46	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GGT	GGC	G	G	263		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12484	T	C	225.417	33	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CTT	CTC	L	L	305		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12493	A	G	225.417	37	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	TTA	TTG	L	L	308		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12535	A	G	225.417	38	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	TTA	TTG	L	L	322		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12541	G	A	225.417	33	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GCG	GCA	A	A	324		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12544	A	G	225.417	33	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GAA	GAG	E	E	325		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12559	G	A	225.417	45	59	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	TTG	TTA	L	L	330		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12751	A	G	228.274	31	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CTA	CTG	L	L	394		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12764	T	A	225.417	39	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	missense	1	TTG	ATG	L	M	399		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12864	T	C	225.417	51	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	missense	2	GTT	GCT	V	A	432		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12871	A	G	225.417	51	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GGA	GGG	G	G	434		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	12988	A	G	225.417	53	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	AGA	AGG	R	R	473		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13003	T	G	225.417	35	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GGT	GGG	G	G	478		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13123	G	T	201.416	19	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CGG	CGT	R	R	518		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13135	G	A	112.012	24	56	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GAG	GAA	E	E	522		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13153	A	C	225.417	20	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CCA	CCC	P	P	528		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13165	T	C	225.417	22	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	CCT	CCC	P	P	532		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13201	T	A	225.417	32	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	missense	3	CAT	CAA	H	Q	544		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13222	T	A	225.417	48	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	missense	3	GAT	GAA	D	E	551		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13225	C	T	225.417	48	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GAC	GAT	D	D	552		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13240	T	C	225.417	49	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	AGT	AGC	S	S	557		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13297	T	C	225.417	42	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	synonymous	3	GGT	GGC	G	G	576		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13298	T	C	225.417	42	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	missense	1	TGC	CGC	C	R	577		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13307	T	A	225.417	46	60	SNV	CDS		hexon-associated protein	[11569:13318](+)	1	missense	1	TCA	ACA	S	T	580		hexon-associated protein
+AIAMA_GOT005_OS_S43	X73487.1	13474	G	A	225.417	22	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GCG	GCA	A	A	27		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	13594	T	C	225.417	32	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	TCT	TCC	S	S	67		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	13621	T	C	225.417	31	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	AAT	AAC	N	N	76		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	13672	T	C	225.417	26	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	CCT	CCC	P	P	93		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	13699	C	T	225.417	20	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	AAC	AAT	N	N	102		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	13715	A	C	225.417	21	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	1	AGA	CGA	R	R	108		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	13827	A	G	210.417	10	60	SNV	CDS		penton protein	[13393:14887](+)	1	missense	2	AAC	AGC	N	S	145		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14047	G	A	225.417	27	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	CCG	CCA	P	P	218		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14087	C	T	225.417	31	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	1	CTG	TTG	L	L	232		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14110	T	C	225.417	35	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GAT	GAC	D	D	239		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14155	G	A	225.417	42	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	AGG	AGA	R	R	254		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14212	T	C	225.417	39	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	ATT	ATC	I	I	273		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14218	T	C	225.417	28	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GCT	GCC	A	A	275		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14243	A	G	225.417	37	59	SNV	CDS		penton protein	[13393:14887](+)	1	missense	1	AAC	GAC	N	D	284		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14265	C	G	225.417	37	59	SNV	CDS		penton protein	[13393:14887](+)	1	missense	2	ACT	AGT	T	S	291		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14302	T	C	225.417	32	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GCT	GCC	A	A	303		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14307	G	A	225.417	29	60	SNV	CDS		penton protein	[13393:14887](+)	1	missense	2	AGG	AAG	R	K	305		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14308	G	A	225.417	29	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	AGG	AGA	R	R	305		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14320	T	G	225.417	37	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GTT	GTG	V	V	309		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14324	A	G	225.417	37	60	SNV	CDS		penton protein	[13393:14887](+)	1	missense	1	ACA	GCA	T	A	311		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14375	A	C	225.417	55	60	SNV	CDS		penton protein	[13393:14887](+)	1	missense	1	AAA	CAA	K	Q	328		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14461	A	G	225.417	41	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GTA	GTG	V	V	356		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14476	A	G	225.417	39	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	GAA	GAG	E	E	361		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14491	C	T	225.417	34	60	SNV	CDS		penton protein	[13393:14887](+)	1	synonymous	3	TCC	TCT	S	S	366		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14573	C	A	225.417	63	60	SNV	CDS		penton protein	[13393:14887](+)	1	missense	1	CTG	ATG	L	M	394		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	14652	G	A	225.417	71	59	SNV	CDS		penton protein	[13393:14887](+)	1	missense	2	CGC	CAC	R	H	420		penton protein
+AIAMA_GOT005_OS_S43	X73487.1	15637	C	T	225.417	40	60	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	GTC	GTT	V	V	46		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	15657	G	A	225.417	36	60	SNV	CDS		minor core protein	[15499:16543](+)	1	missense	2	GGC	GAC	G	D	53		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	15773	A	G	225.417	23	57	SNV	CDS		minor core protein	[15499:16543](+)	1	missense	1	ATT	GTT	I	V	92		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	15943	C	T	225.417	39	60	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	GTC	GTT	V	V	148		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	15967	C	A	225.417	30	59	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	GTC	GTA	V	V	156		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	15973	G	A	225.417	30	59	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	GGG	GGA	G	G	158		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16126	G	A	225.417	21	60	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	CCG	CCA	P	P	209		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16147	A	C	225.417	19	60	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	GGA	GGC	G	G	216		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16187	A	G	225.417	17	60	SNV	CDS		minor core protein	[15499:16543](+)	1	missense	1	ACT	GCT	T	A	230		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16193	T	C	225.417	17	60	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	1	TTG	CTG	L	L	232		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16212	T	C	225.417	13	60	SNV	CDS		minor core protein	[15499:16543](+)	1	missense	2	ATC	ACC	I	T	238		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16414	T	C	190.17	27	58	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	CGT	CGC	R	R	305		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16441	T	A	225.417	24	60	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	CGT	CGA	R	R	314		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16504	A	G	225.417	31	59	SNV	CDS		minor core protein	[15499:16543](+)	1	synonymous	3	CTA	CTG	L	L	335		minor core protein
+AIAMA_GOT005_OS_S43	X73487.1	16616	C	A	209.417	16	59	SNV	CDS		11KD core protein	[16567:16786](+)	1	synonymous	1	CGA	AGA	R	R	17		11KD core protein
+AIAMA_GOT005_OS_S43	X73487.1	16753	C	T	225.417	54	57	SNV	CDS		11KD core protein	[16567:16786](+)	1	synonymous	3	GCC	GCT	A	A	62		11KD core protein
+AIAMA_GOT005_OS_S43	X73487.1	16759	A	G	225.417	46	57	SNV	CDS		11KD core protein	[16567:16786](+)	1	synonymous	3	GTA	GTG	V	V	64		11KD core protein
+AIAMA_GOT005_OS_S43	X73487.1	16998	G	A	225.417	37	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	AAG	AAA	K	K	52		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17070	T	C	225.417	37	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	TTT	TTC	F	F	76		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17139	A	G	225.417	53	52	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	GTA	GTG	V	V	99		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17184	A	G	225.417	76	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	GTA	GTG	V	V	114		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17338	C	T	225.417	38	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	1	CTG	TTG	L	L	166		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17364	C	T	225.417	15	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	ACC	ACT	T	T	174		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17415	G	A	224.417	17	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	GTG	GTA	V	V	191		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17466	C	T	225.417	36	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	CCC	CCT	P	P	208		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17481	T	C	225.417	41	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	CCT	CCC	P	P	213		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17517	T	A	225.422	42	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	CGT	CGA	R	R	225		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17550	G	A	225.417	21	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	TTG	TTA	L	L	236		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17592	T	C	225.417	37	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	AGT	AGC	S	S	250		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	17610	A	G	225.417	34	60	SNV	CDS		protein VI	[16842:17640](+)	1	synonymous	3	GTA	GTG	V	V	256		protein VI
+AIAMA_GOT005_OS_S43	X73487.1	18015	C	T	225.417	44	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CGC	CGT	R	R	92		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18096	C	T	225.417	38	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ACC	ACT	T	T	119		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18114	A	G	225.417	42	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GCA	GCG	A	A	125		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18152	A	C	191.416	17	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	2	AAC	ACC	N	T	138		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18153	C	T	185.416	14	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAC	AAT	N	N	138		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18154	G	A	173.416	14	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	GCT	ACT	A	T	139		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18155	C	A	180.416	14	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	2	GCT	GAT	A	D	139		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18160	C	G	182.416	14	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	CTT	GTT	L	V	141		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18161	T	C	182.416	14	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	2	CTT	CCT	L	P	141		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18162	T	A	185.416	14	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CTT	CTA	L	L	141		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18180	G	A	225.417	20	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GCG	GCA	A	A	147		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18185	A	T	225.417	20	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	2	TAT	TTT	Y	F	149		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18187	C	A	225.417	20	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	CTT	ATT	L	I	150		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18201	C	T	225.417	21	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ATC	ATT	I	I	154		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18207	C	T	225.417	19	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GCC	GCT	A	A	156		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18333	A	G	225.422	80	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAA	AAG	K	K	198		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18339	C	T	225.417	84	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GGC	GGT	G	G	200		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18438	T	A	225.417	119	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ATT	ATA	I	I	233		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18463	A	G	225.417	91	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	AAC	GAC	N	D	242		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18469	G	C	225.417	80	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	GCA	CCA	A	P	244		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18472	G	A	225.417	85	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	GCA	ACA	A	T	245		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18479	C	A	225.417	83	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	2	ACT	AAT	T	N	247		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18481	G	C	225.417	83	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	GCT	CCT	A	P	248		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18495	C	T	225.417	82	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TTC	TTT	F	F	252		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18507	C	T	225.417	68	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GAC	GAT	D	D	256		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18559	A	G	225.417	42	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	AAT	GAT	N	D	274		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18561	T	C	225.417	49	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAT	AAC	N	N	274		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18609	T	C	228.327	42	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAT	AAC	N	N	290		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18618	C	T	228.371	41	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAC	AAT	N	N	293		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18666	T	C	228.267	38	58	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AGT	AGC	S	S	309		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18675	C	T	228.266	36	58	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAC	AAT	N	N	312		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18685	T	C	225.417	39	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	1	TTG	CTG	L	L	316		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18693	G	A	225.417	32	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GGG	GGA	G	G	318		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18696	A	G	225.417	32	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CAA	CAG	Q	Q	319		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18699	T	A	225.417	32	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GCT	GCA	A	A	320		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18720	A	G	225.417	38	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GTA	GTG	V	V	327		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18747	G	A	225.417	43	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CTG	CTA	L	L	336		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18786	A	G	225.417	42	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ACA	ACG	T	T	349		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18789	G	C	225.417	42	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CGG	CGC	R	R	350		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18840	C	T	225.417	29	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CGC	CGT	R	R	367		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18937	G	A	225.417	69	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	GAT	AAT	D	N	400		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18954	T	A	225.417	64	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GGT	GGA	G	G	405		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18985	G	A	225.417	60	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	GCA	ACA	A	T	416		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18986	C	A	225.417	60	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	2	GCA	GAA	A	E	416		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	18999	C	T	225.417	79	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GGC	GGT	G	G	420		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19077	A	G	225.417	82	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TTA	TTG	L	L	446		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19080	C	T	225.417	79	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TAC	TAT	Y	Y	447		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19092	C	T	225.422	81	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GAC	GAT	D	D	451		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19104	T	C	225.422	92	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ACT	ACC	T	T	455		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19122	A	C	228.357	87	58	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CTA	CTC	L	L	461		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19134	G	A	225.417	106	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAG	AAA	K	K	465		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19194	C	G	225.417	144	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GTC	GTG	V	V	485		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19305	T	C	225.417	40	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TTT	TTC	F	F	522		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19578	T	C	228.394	51	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TAT	TAC	Y	Y	613		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19608	C	T	225.417	50	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ATC	ATT	I	I	623		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19632	C	T	225.417	38	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CCC	CCT	P	P	631		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19659	G	A	225.417	34	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GCG	GCA	A	A	640		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19770	C	T	225.417	57	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GGC	GGT	G	G	677		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19773	C	G	225.417	57	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ACC	ACG	T	T	678		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19920	T	C	225.417	85	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	AAT	AAC	N	N	727		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19944	A	T	225.417	78	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ATA	ATT	I	I	735		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	19953	T	C	225.417	79	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CTT	CTC	L	L	738		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20025	T	C	225.417	53	56	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TTT	TTC	F	F	762		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20073	T	C	225.417	73	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TAT	TAC	Y	Y	778		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20106	A	G	225.417	76	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	CAA	CAG	Q	Q	789		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20139	C	T	225.417	70	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GGC	GGT	G	G	800		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20163	T	C	225.417	64	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	GCT	GCC	A	A	808		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20193	A	T	225.417	51	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	ATA	ATT	I	I	818		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20197	C	A	225.417	45	60	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	missense	1	CAA	AAA	Q	K	820		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20331	A	G	225.417	68	59	SNV	CDS		hexon protein (Late protein 2)	[17739:20499](+)	1	synonymous	3	TCA	TCG	S	S	864		hexon protein (Late protein 2)
+AIAMA_GOT005_OS_S43	X73487.1	20593	A	C	225.421	30	60	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	GGA	GGC	G	G	23		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20647	T	C	225.417	24	60	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	GCT	GCC	A	A	41		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20695	T	C	228.345	38	59	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	GCT	GCC	A	A	57		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20725	C	T	225.417	31	59	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	TGC	TGT	C	C	67		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20758	A	G	225.417	56	59	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	CAA	CAG	Q	Q	78		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20764	A	G	225.417	59	59	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	CTA	CTG	L	L	80		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20839	T	C	225.417	80	60	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	GTT	GTC	V	V	105		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	20917	C	T	225.417	55	60	SNV	CDS		virus encoded endoprotease (Late protein 3)	[20524:21145](+)	1	synonymous	3	CAC	CAT	H	H	131		virus encoded endoprotease (Late protein 3)
+AIAMA_GOT005_OS_S43	X73487.1	21230	C	T	225.417	42	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CTC	CTA	L	L	480		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21324	G	A	225.417	85	59	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	2	GGG	GTG	G	V	449		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21329	G	T	225.417	80	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CCG	CCA	P	P	447		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21472	A	G	225.417	56	58	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	1	AAC	CAC	N	H	400		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21514	C	T	225.417	50	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	1	CAT	AAT	H	N	386		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21572	T	C	225.417	72	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GTT	GTG	V	V	366		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21590	C	T	225.417	68	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	GAC	GAA	D	E	360		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21764	A	G	225.421	72	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	TTA	TTC	L	F	302		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21818	A	C	225.417	65	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CAA	CAG	Q	Q	284		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	21866	G	A	225.417	120	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	TTG	TTT	L	F	268		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22007	G	A	225.417	49	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	TGG	TGT	W	C	221		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22021	A	T	225.417	33	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	1	AGG	AGG	R	R	217		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22043	A	G	225.417	23	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CGA	CGC	R	R	209		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22136	G	A	225.417	42	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	GAG	GAT	E	D	178		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22194	G	C	225.421	30	50	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	2	TGG	TGG	W	W	159		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22199	G	A	225.417	28	49	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GCG	GCT	A	A	157		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22202	C	G	225.421	29	50	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CTC	CTC	L	L	156		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22226	T	C	225.417	20	47	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CTT	CTG	L	L	148		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22253	G	A	225.417	17	55	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CCG	CCT	P	P	139		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22274	T	C	225.417	12	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	GAT	GAG	D	E	132		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22276	G	A	225.417	12	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	1	GAT	TAT	D	Y	132		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22277	G	A	225.417	12	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GGG	GGT	G	G	131		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22307	A	C	197.416	12	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CAA	CAG	Q	Q	121		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22350	A	G	150.21	12	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	2	AAC	ACC	N	T	107		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22421	G	T	225.422	29	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GGG	GGA	G	G	83		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22451	A	G	225.417	38	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	3	CAA	CAC	Q	H	73		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22458	C	T	225.417	38	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	2	TCT	TAT	S	Y	71		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22463	T	C	225.417	37	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GGT	GGG	G	G	69		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22490	C	G	225.417	36	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CTC	CTC	L	L	60		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22547	A	G	225.417	30	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GGA	GGC	G	G	41		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22553	A	G	225.417	30	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	CGA	CGC	R	R	39		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22555	C	T	225.417	30	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	1	CGA	AGA	R	R	39		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22585	G	A	225.417	28	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	1	GAC	TAC	D	Y	29		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22594	T	G	225.417	27	60	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	missense	1	TCT	CCT	S	P	26		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22607	C	A	180.073	26	56	SNV	CDS		early E2A DNA-binding protein	[21214:22669](-)	-1	synonymous	3	GGC	GGT	G	G	21		early E2A DNA-binding protein
+AIAMA_GOT005_OS_S43	X73487.1	22728	G	A	225.417	29	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	1	GCC	ACC	A	T	12		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	22808	T	C	225.417	41	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	GTT	GTC	V	V	38		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	22855	T	C	228.309	56	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	2	TTT	TCT	F	S	54		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	22861	A	T	228.316	52	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	2	CAA	CTA	Q	L	56		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	22894	G	A	225.417	50	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	2	GGG	GAG	G	E	67		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	22899	G	A	225.417	50	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	1	GAG	AAG	E	K	69		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	22952	A	G	225.417	68	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CGA	CGG	R	R	86		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23150	C	T	228.339	64	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	TAC	TAT	Y	Y	152		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23294	A	G	225.417	19	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	TTA	TTG	L	L	200		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23352	C	T	225.417	56	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	1	CAT	TAT	H	Y	220		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23489	G	A	225.422	56	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CAG	CAA	Q	Q	265		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23651	C	A	225.417	40	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	GCC	GCA	A	A	319		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23690	T	C	225.417	37	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CGT	CGC	R	R	332		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23696	C	T	225.417	32	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	TTC	TTT	F	F	334		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	23853	C	T	225.417	42	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	1	CTA	TTA	L	L	387		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24005	A	G	225.417	72	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	AGA	AGG	R	R	437		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24084	T	C	225.417	51	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	1	TTA	CTA	L	L	464		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24101	A	G	225.417	48	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CAA	CAG	Q	Q	469		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24182	T	C	225.417	27	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CCT	CCC	P	P	496		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24194	T	C	225.417	25	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	TGT	TGC	C	C	500		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24215	G	A	225.417	29	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	GTG	GTA	V	V	507		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24359	T	G	228.392	69	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CTT	CTG	L	L	555		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24476	A	G	225.417	39	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	AGA	AGG	R	R	594		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24488	G	A	225.417	40	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	GGG	GGA	G	G	598		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24548	C	T	228.367	47	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	ATC	ATT	I	I	618		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24557	C	T	228.367	47	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	TAC	TAT	Y	Y	621		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	24972	C	A	225.417	54	60	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	1	CAA	AAA	Q	K	760		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	25024	T	C	225.417	20	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	missense	2	ATC	ACC	I	T	777		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	25037	A	G	225.417	26	59	SNV	CDS		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L	[22694:25043](+)	1	synonymous	3	CAA	CAG	Q	Q	781		unnamed protein product; late 100 KD protein; homologue to crossref SWISS-PROT:L
+AIAMA_GOT005_OS_S43	X73487.1	25851	T	C	225.417	22	60	SNV	CDS		hexon associated protein	[25611:26313](+)	1	synonymous	3	TAT	TAC	Y	Y	80		hexon associated protein
+AIAMA_GOT005_OS_S43	X73487.1	26022	G	A	225.417	38	60	SNV	CDS		hexon associated protein	[25611:26313](+)	1	synonymous	3	GGG	GGA	G	G	137		hexon associated protein
+AIAMA_GOT005_OS_S43	X73487.1	26100	C	T	225.417	70	60	SNV	CDS		hexon associated protein	[25611:26313](+)	1	synonymous	3	TCC	TCT	S	S	163		hexon associated protein
+AIAMA_GOT005_OS_S43	X73487.1	26109	C	A	225.417	73	60	SNV	CDS		hexon associated protein	[25611:26313](+)	1	synonymous	3	TCC	TCA	S	S	166		hexon associated protein
+AIAMA_GOT005_OS_S43	X73487.1	28260	G	A	225.417	45	60	SNV	CDS		E3B 10.4 KD protein	[28206:28482](+)	1	synonymous	3	TCG	TCA	S	S	18		E3B 10.4 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28277	G	A	225.417	44	60	SNV	CDS		E3B 10.4 KD protein	[28206:28482](+)	1	missense	2	AGT	AAT	S	N	24		E3B 10.4 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28589	C	T	225.417	33	59	SNV	CDS		E3B 14.5 KD protein	[28478:28811](+)	1	synonymous	3	TAC	TAT	Y	Y	37		E3B 14.5 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28631	C	T	225.417	81	60	SNV	CDS		E3B 14.5 KD protein	[28478:28811](+)	1	synonymous	3	GTC	GTT	V	V	51		E3B 14.5 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28636	C	G	225.417	82	60	SNV	CDS		E3B 14.5 KD protein	[28478:28811](+)	1	missense	2	TCT	TGT	S	C	53		E3B 14.5 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28643	T	G	225.417	83	60	SNV	CDS		E3B 14.5 KD protein	[28478:28811](+)	1	synonymous	3	GTT	GTG	V	V	55		E3B 14.5 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28669	A	G	225.417	97	60	SNV	CDS		E3B 14.5 KD protein	[28478:28811](+)	1	missense	2	AAT	AGT	N	S	64		E3B 14.5 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	28683	A	C	225.417	111	60	SNV	CDS		E3B 14.5 KD protein	[28478:28811](+)	1	missense	1	AAG	CAG	K	Q	69		E3B 14.5 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	29040	T	C	225.417	73	59	SNV	CDS		E3B 14.7 KD protein	[28803:29190](+)	1	synonymous	3	TTT	TTC	F	F	79		E3B 14.7 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	29400	A	G	228.381	62	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GAA	GAG	E	E	11		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29486	C	T	225.417	218	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	ACT	ATT	T	I	40		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29535	T	A	228.424	133	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	3	AAT	AAA	N	K	56		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29700	A	G	225.417	115	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CTA	CTG	L	L	111		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29702	C	G	225.417	115	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	GCA	GGA	A	G	112		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29778	C	T	225.417	66	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACC	ACT	T	T	137		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29787	C	G	225.417	47	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CCC	CCG	P	P	140		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29805	G	C	225.417	34	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	TCG	TCC	S	S	146		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29899	A	G	225.417	27	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	AAT	GAT	N	D	178		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29902	T	C	225.417	26	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	1	TTG	CTG	L	L	179		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29904	G	A	225.417	26	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	TTG	TTA	L	L	179		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29910	C	G	225.417	26	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CTC	CTG	L	L	181		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29946	T	A	225.417	34	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GGT	GGA	G	G	193		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	29978	G	A	225.417	36	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	AGT	AAT	S	N	204		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30005	C	T	225.417	39	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	CCT	CTT	P	L	213		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30009	G	T	225.417	39	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACG	ACT	T	T	214		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30015	T	G	225.422	46	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	3	GAT	GAG	D	E	216		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30027	G	A	225.417	59	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GTG	GTA	V	V	220		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30031	T	G	225.417	59	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	TCC	GCC	S	A	222		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30034	G	A	225.417	57	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	GAT	AAT	D	N	223		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30042	G	A	225.417	77	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	TTG	TTA	L	L	225		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30057	T	C	225.417	66	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACT	ACC	T	T	230		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30060	T	C	225.417	66	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AGT	AGC	S	S	231		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30066	T	C	225.417	70	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ATT	ATC	I	I	233		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30072	A	G	225.417	70	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GTA	GTG	V	V	235		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30073	A	T	225.417	81	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	ATA	TTA	I	L	236		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30078	C	T	225.417	81	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AAC	AAT	N	N	237		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30145	G	T	225.417	106	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	GCC	TCC	A	S	260		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30156	G	T	225.417	94	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CTG	CTT	L	L	263		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30162	T	C	225.417	54	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ATT	ATC	I	I	265		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30166	C	G	225.417	51	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	CAA	GAA	Q	E	267		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30167	A	G	225.417	51	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	CAA	CGA	Q	R	267		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30169	G	A	225.422	51	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	GAC	AAC	D	N	268		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30171	C	T	226.218	56	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GAC	GAT	D	D	268		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30249	A	G	228.33	49	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACA	ACG	T	T	294		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30276	C	T	225.417	64	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AAC	AAT	N	N	303		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30325	A	G	225.417	57	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	AAT	GAT	N	D	320		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30342	G	A	225.417	51	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GCG	GCA	A	A	325		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30348	T	C	225.417	51	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AAT	AAC	N	N	327		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30364	C	A	225.417	45	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	1	CGG	AGG	R	R	333		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30426	C	T	225.417	49	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACC	ACT	T	T	353		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30454	C	A	225.417	37	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	CAA	AAA	Q	K	363		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30490	A	G	225.417	52	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	AAT	GAT	N	D	375		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30519	A	G	225.417	68	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GGA	GGG	G	G	384		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30530	T	C	225.417	67	60	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	ATT	ACT	I	T	388		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30549	C	T	225.417	68	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AAC	AAT	N	N	394		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30559	G	A	225.417	81	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	GGC	AGC	G	S	398		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30567	C	T	225.417	87	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AGC	AGT	S	S	400		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30572	A	G	225.417	88	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	2	AAC	AGC	N	S	402		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30597	G	A	228.409	128	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CTG	CTA	L	L	410		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30657	C	T	225.417	114	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CTC	CTT	L	L	430		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30741	A	G	225.417	73	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	CAA	CAG	Q	Q	458		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30868	A	G	225.417	114	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	AAT	GAT	N	D	501		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30874	G	A	225.417	109	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	GTT	ATT	V	I	503		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30879	C	T	225.417	111	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACC	ACT	T	T	504		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30903	T	C	225.421	84	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	AAT	AAC	N	N	512		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30904	G	A	225.422	79	59	SNV	CDS		fiber protein	[29367:31131](+)	1	missense	1	GTG	ATG	V	M	513		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30906	G	A	225.417	79	59	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GTG	GTA	V	V	513		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30936	G	A	225.417	85	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	GAG	GAA	E	E	523		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30963	G	A	225.417	68	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACG	ACA	T	T	532		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	30966	C	T	225.417	68	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	TAC	TAT	Y	Y	533		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	31020	T	C	228.4	55	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ATT	ATC	I	I	551		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	31038	C	T	225.417	61	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	TAC	TAT	Y	Y	557		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	31050	C	T	225.417	61	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	TTC	TTT	F	F	561		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	31122	C	T	160.416	20	60	SNV	CDS		fiber protein	[29367:31131](+)	1	synonymous	3	ACC	ACT	T	T	585		fiber protein
+AIAMA_GOT005_OS_S43	X73487.1	31448	A	G	225.417	13	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	CGA	CGC	R	R	288		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31457	A	G	225.417	14	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	GGA	GGC	G	G	285		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31540	G	C	225.417	32	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	1	GCA	GCA	A	A	258		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31586	T	C	228.366	53	59	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	missense	3	CAT	CAG	H	Q	242		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31589	T	C	228.367	53	59	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	GTT	GTG	V	V	241		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31591	G	T	225.417	51	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	missense	1	GTT	ATT	V	I	241		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31654	A	G	225.417	62	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	missense	1	AAT	CAT	N	H	220		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31832	A	G	225.417	61	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	GGA	GGC	G	G	160		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31898	G	A	225.417	56	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	CGG	CGT	R	R	138		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31907	G	A	225.417	61	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	missense	3	AAG	AAT	K	N	135		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31927	T	A	228.345	86	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	1	TAC	TAC	Y	Y	129		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31964	G	A	228.364	75	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	ACG	ACT	T	T	116		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	31988	C	T	225.417	70	60	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	CTC	CTA	L	L	108		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32225	C	G	10.7962	81	56	SNV	CDS		E4 34 KD protein	[31435:32311](-)	-1	synonymous	3	TGC	TGC	C	C	29		E4 34 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32252	C	T	225.417	84	56	SNV	CDS		E4 34 KD protein;E4 13 KD protein	[31435:32311](-);[32243:32606](-)	-1;-1	synonymous;synonymous	3;1	GGC;CGG	GGA;AGG	G;R	G;R	20;119	;	E4 34 KD protein;E4 13 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32508	C	T	225.417	48	57	SNV	CDS		E4 13 KD protein	[32243:32606](-)	-1	missense	3	GAC	GAA	D	E	33		E4 13 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32576	C	A	225.417	47	44	SNV	CDS		E4 13 KD protein	[32243:32606](-)	-1	missense	1	CAT	TAT	H	Y	11		E4 13 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32742	T	A	225.417	25	35	SNV	CDS		E4 11 KD protein	[32612:32963](-)	-1	synonymous	3	CTT	CTT	L	L	74		E4 11 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32876	G	C	225.417	47	48	SNV	CDS		E4 11 KD protein	[32612:32963](-)	-1	synonymous	1	GTT	GTT	V	V	30		E4 11 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32892	C	T	225.417	42	46	SNV	CDS		E4 11 KD protein	[32612:32963](-)	-1	missense	3	GAC	GAA	D	E	24		E4 11 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32904	G	A	225.417	42	46	SNV	CDS		E4 11 KD protein	[32612:32963](-)	-1	synonymous	3	GTG	GTT	V	V	20		E4 11 KD protein
+AIAMA_GOT005_OS_S43	X73487.1	32940	C	A	225.417	23	40	SNV	CDS		E4 11 KD protein	[32612:32963](-)	-1	synonymous	3	CGC	CGT	R	R	8		E4 11 KD protein
+AINWZDOG001_S37	GU191019.1	585	G	A	225.417	10	60	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	missense	1	GAT	AAT	D	N	32	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	788	C	A	225.417	42	60	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	missense	3	GAC	GAA	D	E	99	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	891	C	G	224.249	24	59	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	missense	1	CTT	GTT	L	V	134	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	941	C	T	225.417	25	60	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	synonymous	3	TCC	TCT	S	S	150	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	956	T	C	214.236	26	60	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	synonymous	3	GCT	GCC	A	A	155	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	1034	T	C	218.25	17	58	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	synonymous	3	CAT	CAC	H	H	181	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	1203	G	A	168.111	11	58	SNV	CDS	E1A	E1A protein	join{[491:1107](+), [1182:1403](+)}	1	missense	1	GTA	ATA	V	I	213	E1A	E1A protein
+AINWZDOG001_S37	GU191019.1	2731	C	T	225.417	26	60	SNV	CDS	E1B	E1B 55 kDa protein	[1867:3292](+)	1	synonymous	3	TGC	TGT	C	C	288	E1B	E1B 55 kDa protein
+AINWZDOG001_S37	GU191019.1	3681	A	C	225.417	11	60	SNV	CDS	IX	IX protein	[3368:3806](+)	1	missense	1	ATT	CTT	I	L	105	IX	IX protein
+AINWZDOG001_S37	GU191019.1	3683	T	G	225.417	11	60	SNV	CDS	IX	IX protein	[3368:3806](+)	1	missense	3	ATT	ATG	I	M	105	IX	IX protein
+AINWZDOG001_S37	GU191019.1	3714	C	T	225.417	12	60	SNV	CDS	IX	IX protein	[3368:3806](+)	1	synonymous	1	CTA	TTA	L	L	116	IX	IX protein
+AINWZDOG001_S37	GU191019.1	3937	C	T	221.243	19	60	SNV	CDS	IVa2	IVa2 protein	join{[5455:5468](-), [3843:5177](-)}	-1	missense	2	GCG	GAG	A	E	414	IVa2	IVa2 protein
+AINWZDOG001_S37	GU191019.1	4117	G	A	225.417	18	60	SNV	CDS	IVa2	IVa2 protein	join{[5455:5468](-), [3843:5177](-)}	-1	missense	2	GGA	GTA	G	V	354	IVa2	IVa2 protein
+AINWZDOG001_S37	GU191019.1	4636	C	A	225.417	16	60	SNV	CDS	IVa2	IVa2 protein	join{[5455:5468](-), [3843:5177](-)}	-1	missense	2	GCC	GTC	A	V	181	IVa2	IVa2 protein
+AINWZDOG001_S37	GU191019.1	5286	C	G	225.417	13	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	synonymous	3	GTC	GTC	V	V	1076	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	5553	G	A	225.417	14	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	synonymous	3	GCG	GCT	A	A	987	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	5916	G	A	225.417	14	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	missense	3	TTG	TTT	L	F	866	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	5925	A	T	225.417	14	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	synonymous	3	CCA	CCA	P	P	863	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	6471	T	C	225.417	11	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	synonymous	3	CGT	CGG	R	R	681	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	6744	G	A	225.417	18	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	synonymous	3	CGG	CGT	R	R	590	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	7149	A	G	206.417	13	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	missense	3	TTA	TTC	L	F	455	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	7397	G	A	225.417	15	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	missense	1	GTG	TTG	V	L	373	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	7448	A	T	225.417	21	60	SNV	CDS	E2B	DNA polymerase	join{[13339:13348](-), [4949:8513](-)}	-1	synonymous	1	AGT	AGT	S	S	356	E2B	DNA polymerase
+AINWZDOG001_S37	GU191019.1	8368	A	G	225.417	24	60	SNV	CDS	E2B;E2B	DNA polymerase;terminal protein precursor	join{[13339:13348](-), [4949:8513](-)};join{[13339:13348](-), [8311:10228](-)}	-1;-1	missense;missense	2;1	AAT;ATG	ACT;CTG	N;M	T;L	49;621	E2B;E2B	DNA polymerase;terminal protein precursor
+AINWZDOG001_S37	GU191019.1	8423	A	C	225.417	37	60	SNV	CDS	E2B;E2B	DNA polymerase;terminal protein precursor	join{[13339:13348](-), [4949:8513](-)};join{[13339:13348](-), [8311:10228](-)}	-1;-1	missense;synonymous	1;3	ACG;GCA	GCG;GCG	T;A	A;A	31;602	E2B;E2B	DNA polymerase;terminal protein precursor
+AINWZDOG001_S37	GU191019.1	9161	G	A	221.417	13	60	SNV	CDS	E2B	terminal protein precursor	join{[13339:13348](-), [8311:10228](-)}	-1	synonymous	3	GCG	GCT	A	A	356	E2B	terminal protein precursor
+AINWZDOG001_S37	GU191019.1	9173	T	A	171.416	11	60	SNV	CDS	E2B	terminal protein precursor	join{[13339:13348](-), [8311:10228](-)}	-1	synonymous	3	GCT	GCT	A	A	352	E2B	terminal protein precursor
+AINWZDOG001_S37	GU191019.1	9620	G	A	225.417	17	60	SNV	CDS	E2B	terminal protein precursor	join{[13339:13348](-), [8311:10228](-)}	-1	synonymous	3	TCG	TCT	S	S	203	E2B	terminal protein precursor
+AINWZDOG001_S37	GU191019.1	10823	T	C	225.417	14	60	SNV	CDS	L1	52 kDa protein	[10427:11552](+)	1	synonymous	3	AAT	AAC	N	N	132	L1	52 kDa protein
+AINWZDOG001_S37	GU191019.1	10847	T	A	203.207	26	60	SNV	CDS	L1	52 kDa protein	[10427:11552](+)	1	synonymous	3	ACT	ACA	T	T	140	L1	52 kDa protein
+AINWZDOG001_S37	GU191019.1	10856	G	A	225.417	26	60	SNV	CDS	L1	52 kDa protein	[10427:11552](+)	1	synonymous	3	GAG	GAA	E	E	143	L1	52 kDa protein
+AINWZDOG001_S37	GU191019.1	11378	A	T	225.417	11	60	SNV	CDS	L1	52 kDa protein	[10427:11552](+)	1	synonymous	3	CTA	CTT	L	L	317	L1	52 kDa protein
+AINWZDOG001_S37	GU191019.1	11411	G	A	225.417	11	60	SNV	CDS	L1	52 kDa protein	[10427:11552](+)	1	synonymous	3	GCG	GCA	A	A	328	L1	52 kDa protein
+AINWZDOG001_S37	GU191019.1	11755	A	C	225.417	11	60	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	CGA	CGC	R	R	61	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12332	G	A	225.417	13	60	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	missense	1	GGT	AGT	G	S	254	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12364	C	T	225.417	12	49	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	CAC	CAT	H	H	264	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12622	T	C	225.417	15	60	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	ACT	ACC	T	T	350	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12674	C	A	225.417	24	60	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	1	CGA	AGA	R	R	368	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12733	A	G	146.031	32	56	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	GAA	GAG	E	E	387	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12739	T	C	146.002	30	56	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	TTT	TTC	F	F	389	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12796	G	A	225.417	15	59	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	GAG	GAA	E	E	408	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12808	C	A	225.417	15	59	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	3	CCC	CCA	P	P	412	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	12875	C	T	66.7451	10	54	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	missense	1	CAC	TAC	H	Y	435	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	13238	C	T	225.417	14	60	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	synonymous	1	CTG	TTG	L	L	556	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	13289	T	C	225.417	11	59	SNV	CDS	L1	protein IIIa precursor	[11572:13309](+)	1	missense	1	TAC	CAC	Y	H	573	L1	protein IIIa precursor
+AINWZDOG001_S37	GU191019.1	13681	C	T	225.417	16	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	AAC	AAT	N	N	97	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13684	C	T	225.417	16	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	GAC	GAT	D	D	98	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13687	C	T	225.417	16	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	TAC	TAT	Y	Y	99	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13702	C	T	225.417	13	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	GCC	GCT	A	A	104	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13730	C	A	225.417	12	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	1	CGG	AGG	R	R	114	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13747	G	A	225.417	12	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	GGG	GGA	G	G	119	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13765	G	A	159.957	17	58	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	CTG	CTA	L	L	125	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13795	C	T	151.131	10	57	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	TTC	TTT	F	F	135	L2	penton protein
+AINWZDOG001_S37	GU191019.1	13834	C	T	149.131	10	57	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	GCC	GCT	A	A	148	L2	penton protein
+AINWZDOG001_S37	GU191019.1	14191	T	C	222.417	10	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	TTT	TTC	F	F	267	L2	penton protein
+AINWZDOG001_S37	GU191019.1	14351	G	A	225.417	23	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	missense	1	GCG	ACG	A	T	321	L2	penton protein
+AINWZDOG001_S37	GU191019.1	14422	G	A	225.417	18	60	SNV	CDS	L2	penton protein	[13390:14914](+)	1	synonymous	3	TTG	TTA	L	L	344	L2	penton protein
+AINWZDOG001_S37	GU191019.1	15112	C	T	215.417	10	60	SNV	CDS	L2	protein VII	[14926:15496](+)	1	synonymous	3	TCC	TCT	S	S	62	L2	protein VII
+AINWZDOG001_S37	GU191019.1	15740	G	A	225.417	10	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	CGG	CGA	R	R	68	L2	protein V
+AINWZDOG001_S37	GU191019.1	15798	G	A	201.416	11	58	SNV	CDS	L2	protein V	[15536:16586](+)	1	missense	1	GCG	ACG	A	T	88	L2	protein V
+AINWZDOG001_S37	GU191019.1	15818	G	A	225.417	11	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	AAG	AAA	K	K	94	L2	protein V
+AINWZDOG001_S37	GU191019.1	15855	C	T	224.262	18	58	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	1	CTG	TTG	L	L	107	L2	protein V
+AINWZDOG001_S37	GU191019.1	16067	G	A	225.417	26	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	CTG	CTA	L	L	177	L2	protein V
+AINWZDOG001_S37	GU191019.1	16079	G	A	225.417	19	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	AAG	AAA	K	K	181	L2	protein V
+AINWZDOG001_S37	GU191019.1	16124	T	C	225.417	14	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	CCT	CCC	P	P	196	L2	protein V
+AINWZDOG001_S37	GU191019.1	16211	G	A	225.417	16	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	GTG	GTA	V	V	225	L2	protein V
+AINWZDOG001_S37	GU191019.1	16217	C	A	225.417	16	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	ACC	ACA	T	T	227	L2	protein V
+AINWZDOG001_S37	GU191019.1	16226	T	G	225.417	17	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	GGT	GGG	G	G	230	L2	protein V
+AINWZDOG001_S37	GU191019.1	16249	C	T	225.417	15	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	missense	2	TCG	TTG	S	L	238	L2	protein V
+AINWZDOG001_S37	GU191019.1	16255	T	C	199.172	24	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	missense	2	ATG	ACG	M	T	240	L2	protein V
+AINWZDOG001_S37	GU191019.1	16310	T	C	225.417	24	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	GAT	GAC	D	D	258	L2	protein V
+AINWZDOG001_S37	GU191019.1	16322	A	G	225.417	22	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	CTA	CTG	L	L	262	L2	protein V
+AINWZDOG001_S37	GU191019.1	16340	A	G	225.417	21	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	AAA	AAG	K	K	268	L2	protein V
+AINWZDOG001_S37	GU191019.1	16406	A	G	225.417	13	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	ACA	ACG	T	T	290	L2	protein V
+AINWZDOG001_S37	GU191019.1	16466	C	T	225.417	13	60	SNV	CDS	L2	protein V	[15536:16586](+)	1	synonymous	3	GGC	GGT	G	G	310	L2	protein V
+AINWZDOG001_S37	GU191019.1	16740	C	T	207.417	11	60	SNV	CDS	L2	protein X	[16610:16829](+)	1	synonymous	1	CTA	TTA	L	L	44	L2	protein X
+AINWZDOG001_S37	GU191019.1	16742	A	G	205.417	11	60	SNV	CDS	L2	protein X	[16610:16829](+)	1	synonymous	3	CTA	CTG	L	L	44	L2	protein X
+AINWZDOG001_S37	GU191019.1	16778	G	T	225.417	21	56	SNV	CDS	L2	protein X	[16610:16829](+)	1	synonymous	3	GGG	GGT	G	G	56	L2	protein X
+AINWZDOG001_S37	GU191019.1	16781	C	T	225.417	21	56	SNV	CDS	L2	protein X	[16610:16829](+)	1	synonymous	3	GCC	GCT	A	A	57	L2	protein X
+AINWZDOG001_S37	GU191019.1	17075	T	C	225.417	19	60	SNV	CDS	L3	protein VI	[16883:17666](+)	1	synonymous	3	GGT	GGC	G	G	64	L3	protein VI
+AINWZDOG001_S37	GU191019.1	17093	G	A	225.417	20	60	SNV	CDS	L3	protein VI	[16883:17666](+)	1	synonymous	3	AAG	AAA	K	K	70	L3	protein VI
+AINWZDOG001_S37	GU191019.1	17144	A	G	225.417	24	60	SNV	CDS	L3	protein VI	[16883:17666](+)	1	synonymous	3	GGA	GGG	G	G	87	L3	protein VI
+AINWZDOG001_S37	GU191019.1	17234	G	A	225.417	15	55	SNV	CDS	L3	protein VI	[16883:17666](+)	1	synonymous	3	GAG	GAA	E	E	117	L3	protein VI
+AINWZDOG001_S37	GU191019.1	17252	A	G	202.417	10	49	SNV	CDS	L3	protein VI	[16883:17666](+)	1	synonymous	3	TTA	TTG	L	L	123	L3	protein VI
+AINWZDOG001_S37	GU191019.1	17636	G	A	204.417	10	60	SNV	CDS	L3	protein VI	[16883:17666](+)	1	synonymous	3	GTG	GTA	V	V	251	L3	protein VI
+AINWZDOG001_S37	GU191019.1	17942	T	C	225.417	14	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GAT	GAC	D	D	59	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18032	T	C	225.417	15	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GGT	GGC	G	G	89	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18180	A	G	225.417	15	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	missense	1	AAT	GAT	N	D	139	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18226	G	C	225.417	11	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	missense	2	AGC	ACC	S	T	154	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18263	T	C	207.417	10	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	AAT	AAC	N	N	166	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18302	A	C	188.416	10	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	ACA	ACC	T	T	179	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18578	T	C	225.417	22	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TTT	TTC	F	F	271	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18596	A	G	225.417	25	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GCA	GCG	A	A	277	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18605	T	C	225.417	22	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GTT	GTC	V	V	280	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18833	T	C	225.417	17	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TCT	TCC	S	S	356	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18848	C	T	225.417	17	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GCC	GCT	A	A	361	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18878	T	C	225.417	17	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	ATT	ATC	I	I	371	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18932	C	T	225.417	15	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GGC	GGT	G	G	389	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18937	T	C	228.269	18	58	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	missense	2	GTG	GCG	V	A	391	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	18992	G	A	225.417	12	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	AAG	AAA	K	K	409	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19013	T	C	219.417	10	56	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	AAT	AAC	N	N	416	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19020	T	A	225.417	13	57	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	missense	1	TTA	ATA	L	I	419	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19034	C	T	225.417	14	57	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	AAC	AAT	N	N	423	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19040	C	T	225.417	16	58	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TTC	TTT	F	F	425	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19103	G	A	225.417	16	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TTG	TTA	L	L	446	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19136	A	G	221.26	21	58	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GGA	GGG	G	G	457	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19187	T	C	225.417	17	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	CGT	CGC	R	R	474	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19250	T	G	228.318	27	58	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GTT	GTG	V	V	495	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19274	C	T	228.313	29	59	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	AAC	AAT	N	N	503	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19311	C	T	225.417	23	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	1	CTA	TTA	L	L	516	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19316	A	G	210.421	22	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	CTA	CTG	L	L	517	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19383	C	T	205.417	11	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	1	CTG	TTG	L	L	540	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19568	G	A	224.417	10	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TTG	TTA	L	L	601	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19604	C	T	225.417	13	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TAC	TAT	Y	Y	613	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19658	G	C	225.417	29	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	CCG	CCC	P	P	631	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19742	C	T	225.417	20	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GGC	GGT	G	G	659	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19754	C	T	225.417	20	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GAC	GAT	D	D	663	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19784	C	G	225.417	17	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	CCC	CCG	P	P	673	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19835	T	C	225.417	21	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	ATT	ATC	I	I	690	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	19994	T	C	225.417	26	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	ATT	ATC	I	I	743	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20021	A	G	225.417	18	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	GAA	GAG	E	E	752	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20036	A	C	225.417	18	55	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	CGA	CGC	R	R	757	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20150	C	T	225.417	22	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TTC	TTT	F	F	795	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20210	T	C	225.417	15	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TAT	TAC	Y	Y	815	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20255	G	T	127.418	10	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	missense	3	AAG	AAT	K	N	830	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20345	G	A	225.417	21	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	CTG	CTA	L	L	860	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20357	C	A	225.417	20	60	SNV	CDS	L3	hexon protein	[17765:20525](+)	1	synonymous	3	TCC	TCA	S	S	864	L3	hexon protein
+AINWZDOG001_S37	GU191019.1	20748	A	T	225.417	13	59	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	3	ACA	ACT	T	T	66	L3	protease protein
+AINWZDOG001_S37	GU191019.1	20787	T	A	225.417	18	60	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	3	CGT	CGA	R	R	79	L3	protease protein
+AINWZDOG001_S37	GU191019.1	20811	G	A	225.417	17	60	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	3	GAG	GAA	E	E	87	L3	protease protein
+AINWZDOG001_S37	GU191019.1	20821	C	T	225.417	20	60	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	1	CTG	TTG	L	L	91	L3	protease protein
+AINWZDOG001_S37	GU191019.1	20847	C	T	225.417	19	60	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	3	GCC	GCT	A	A	99	L3	protease protein
+AINWZDOG001_S37	GU191019.1	20880	A	G	215.247	17	57	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	3	TCA	TCG	S	S	110	L3	protease protein
+AINWZDOG001_S37	GU191019.1	20898	A	G	225.417	11	60	SNV	CDS	L3	protease protein	[20550:21165](+)	1	synonymous	3	GGA	GGG	G	G	116	L3	protease protein
+AINWZDOG001_S37	GU191019.1	21077	G	A	218.417	10	60	SNV	CDS	L3	protease protein	[20550:21165](+)	1	missense	2	AGA	AAA	R	K	176	L3	protease protein
+AINWZDOG001_S37	GU191019.1	21350	G	A	225.417	11	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	CCG	CCT	P	P	449	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21380	C	T	225.417	10	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	CGC	CGA	R	R	439	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21437	C	G	225.417	12	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	CCC	CCC	P	P	420	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21467	G	A	223.417	10	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	GGG	GGT	G	G	410	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21503	G	A	225.417	13	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	GTG	GTT	V	V	398	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21530	G	A	225.417	12	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	missense	3	TGG	TGT	W	C	389	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21659	G	A	225.417	14	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	GCG	GCT	A	A	346	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21740	C	A	225.417	12	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	CCC	CCT	P	P	319	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21750	A	T	199.17	12	57	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	2	AAG	AAG	K	K	316	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21851	A	G	225.417	11	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	CCA	CCC	P	P	282	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21938	C	T	225.417	19	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	missense	3	GAC	GAA	D	E	253	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	21973	A	G	225.417	17	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	missense	1	AAC	CAC	N	H	242	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	22097	T	C	220.417	10	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	missense	3	GAT	GAG	D	E	200	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	22682	T	C	225.417	14	60	SNV	CDS	E2A	DNA binding protein	[21235:22696](-)	-1	synonymous	3	GTT	GTG	V	V	5	E2A	DNA binding protein
+AINWZDOG001_S37	GU191019.1	22830	C	T	225.417	17	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	missense	1	CCG	TCG	P	S	37	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	22961	C	T	222.417	10	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	GAC	GAT	D	D	80	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23459	G	C	225.417	21	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	CTG	CTC	L	L	246	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23477	G	C	225.417	20	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	GTG	GTC	V	V	252	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23558	C	A	225.417	20	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	GCC	GCA	A	A	279	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23612	A	G	228.348	22	59	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	GGA	GGG	G	G	297	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23639	A	G	225.417	16	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	CTA	CTG	L	L	306	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23738	C	T	225.417	13	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	CAC	CAT	H	H	339	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23750	T	G	225.417	12	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	TCT	TCG	S	S	343	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23882	G	A	225.417	12	59	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	GAG	GAA	E	E	387	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23891	C	G	225.417	14	59	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	CTC	CTG	L	L	390	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23930	G	A	225.417	13	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	GCG	GCA	A	A	403	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	23942	T	C	225.417	15	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	TAT	TAC	Y	Y	407	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	24056	G	A	225.417	24	57	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	AAG	AAA	K	K	445	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	24105	A	G	225.417	23	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	missense	1	AAC	GAC	N	D	462	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	24323	A	G	225.417	22	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	CAA	CAG	Q	Q	534	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	24410	G	A	225.417	22	60	SNV	CDS	L4	100 kDa protein	[22721:25085](+)	1	synonymous	3	CTG	CTA	L	L	563	L4	100 kDa protein
+AINWZDOG001_S37	GU191019.1	24843	C	T	225.417	14	60	SNV	CDS	L4;L4;L4	100 kDa protein;33 kDa protein;22 kDa protein	[22721:25085](+);join{[24816:25126](+), [25304:25609](+)};[24816:25359](+)	1;1;1	missense;synonymous;synonymous	1;3;3	CAT;GCC;GCC	TAT;GCT;GCT	H;A;A	Y;A;A	708;9;9	L4;L4;L4	100 kDa protein;33 kDa protein;22 kDa protein
+AINWZDOG001_S37	GU191019.1	25012	A	G	225.417	17	60	SNV	CDS	L4;L4;L4	100 kDa protein;33 kDa protein;22 kDa protein	[22721:25085](+);join{[24816:25126](+), [25304:25609](+)};[24816:25359](+)	1;1;1	missense;missense;missense	2;1;1	CAC;ACA;ACA	CGC;GCA;GCA	H;T;T	R;A;A	764;66;66	L4;L4;L4	100 kDa protein;33 kDa protein;22 kDa protein
+AINWZDOG001_S37	GU191019.1	26175	C	T	225.417	20	60	SNV	CDS	L4	protein VIII	[25659:26364](+)	1	synonymous	3	CGC	CGT	R	R	172	L4	protein VIII
+AINWZDOG001_S37	GU191019.1	26307	A	G	225.417	26	60	SNV	CDS	L4	protein VIII	[25659:26364](+)	1	synonymous	3	CCA	CCG	P	P	216	L4	protein VIII
+AINWZDOG001_S37	GU191019.1	26727	A	G	225.417	31	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	3	CTA	CTG	L	L	31	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	26970	T	C	225.417	13	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	3	ACT	ACC	T	T	112	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	26998	A	G	225.417	14	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	missense	1	ATT	GTT	I	V	122	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	27006	C	A	225.417	14	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	3	ACC	ACA	T	T	124	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	27183	T	C	225.417	25	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	3	CTT	CTC	L	L	183	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	27255	A	G	225.417	14	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	3	GGA	GGG	G	G	207	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	27337	C	T	225.417	15	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	1	CTG	TTG	L	L	235	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	27375	A	G	225.417	13	60	SNV	CDS	E3	CR1-alpha protein	[26634:27432](+)	1	synonymous	3	GGA	GGG	G	G	247	E3	CR1-alpha protein
+AINWZDOG001_S37	GU191019.1	27473	C	T	225.417	11	60	SNV	CDS	E3	CR1-beta protein	[27434:28244](+)	1	synonymous	3	CCC	CCT	P	P	13	E3	CR1-beta protein
+AINWZDOG001_S37	GU191019.1	27731	A	G	212.193	13	57	SNV	CDS	E3	CR1-beta protein	[27434:28244](+)	1	synonymous	3	CTA	CTG	L	L	99	E3	CR1-beta protein
+AINWZDOG001_S37	GU191019.1	27980	G	A	225.417	17	60	SNV	CDS	E3	CR1-beta protein	[27434:28244](+)	1	synonymous	3	ACG	ACA	T	T	182	E3	CR1-beta protein
+AINWZDOG001_S37	GU191019.1	28098	A	G	225.417	16	60	SNV	CDS	E3	CR1-beta protein	[27434:28244](+)	1	missense	1	AAA	GAA	K	E	222	E3	CR1-beta protein
+AINWZDOG001_S37	GU191019.1	28314	T	C	225.417	29	60	SNV	CDS	E3	RID-alpha protein	[28263:28539](+)	1	synonymous	3	TCT	TCC	S	S	17	E3	RID-alpha protein
+AINWZDOG001_S37	GU191019.1	28438	T	C	225.417	18	60	SNV	CDS	E3	RID-alpha protein	[28263:28539](+)	1	synonymous	1	TTG	CTG	L	L	59	E3	RID-alpha protein
+AINWZDOG001_S37	GU191019.1	28444	T	A	225.417	17	60	SNV	CDS	E3	RID-alpha protein	[28263:28539](+)	1	missense	1	TTT	ATT	F	I	61	E3	RID-alpha protein
+AINWZDOG001_S37	GU191019.1	28911	T	C	227.247	26	60	SNV	CDS	E3	14.7 kDa protein	[28860:29247](+)	1	synonymous	3	CTT	CTC	L	L	17	E3	14.7 kDa protein
+AINWZDOG001_S37	GU191019.1	29116	G	A	225.417	33	57	SNV	CDS	E3	14.7 kDa protein	[28860:29247](+)	1	missense	1	GTA	ATA	V	I	86	E3	14.7 kDa protein
+AINWZDOG001_S37	GU191019.1	29166	T	C	225.417	27	57	SNV	CDS	E3	14.7 kDa protein	[28860:29247](+)	1	synonymous	3	CGT	CGC	R	R	102	E3	14.7 kDa protein
+AINWZDOG001_S37	GU191019.1	29608	G	A	225.417	12	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	1	GTT	ATT	V	I	62	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29664	A	G	225.417	13	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	synonymous	3	GCA	GCG	A	A	80	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29667	G	A	225.417	11	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	synonymous	3	CAG	CAA	Q	Q	81	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29684	G	A	225.417	20	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	2	AGT	AAT	S	N	87	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29835	A	G	225.417	16	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	synonymous	3	ACA	ACG	T	T	137	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29838	G	C	225.417	15	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	synonymous	3	ACG	ACC	T	T	138	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29988	T	C	225.417	13	59	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	synonymous	3	GTT	GTC	V	V	188	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	29989	A	G	225.417	12	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	1	ATA	GTA	I	V	189	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	30130	G	A	225.417	13	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	1	GCC	ACC	A	T	236	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	30226	A	G	225.417	11	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	1	AAT	GAT	N	D	268	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	30352	A	C	216.417	10	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	1	ACT	CCT	T	P	310	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	30426	T	C	85.8069	11	56	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	synonymous	3	GGT	GGC	G	G	334	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	30586	A	G	225.417	17	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	1	ACT	GCT	T	A	388	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	30806	C	G	225.417	12	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	2	ACC	AGC	T	S	461	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	31004	C	T	225.417	16	60	SNV	CDS	L5	fiber protein	[29424:31185](+)	1	missense	2	ACG	ATG	T	M	527	L5	fiber protein
+AINWZDOG001_S37	GU191019.1	31390	A	G	225.417	28	60	SNV	CDS	E4	ORF 6/7 protein	join{[32213:32361](-), [31229:31462](-)}	-1	missense	1	AAC	CAC	N	H	25	E4	ORF 6/7 protein
+AINWZDOG001_S37	GU191019.1	31801	G	A	225.417	19	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	missense	3	CAG	CAT	Q	H	187	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	31807	A	T	225.417	20	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	synonymous	3	CCA	CCA	P	P	185	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	31840	T	C	225.417	20	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	missense	3	TTT	TTG	F	L	174	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	31841	T	C	225.417	20	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	missense	2	TTT	TGT	F	C	174	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	31872	G	A	225.417	40	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	missense	1	GAC	TAC	D	Y	164	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	31919	C	T	225.417	45	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	missense	2	ACG	AAG	T	K	148	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	32017	G	A	228.331	29	59	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	synonymous	3	GTG	GTT	V	V	115	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	32038	C	T	225.417	27	60	SNV	CDS	E4	34 kDa protein	[31485:32361](-)	-1	synonymous	3	CTC	CTA	L	L	108	E4	34 kDa protein
+AINWZDOG001_S37	GU191019.1	32326	T	C	225.417	17	60	SNV	CDS	E4;E4;E4	ORF 6/7 protein;34 kDa protein;ORF4 protein	join{[32213:32361](-), [31229:31462](-)};[31485:32361](-);[32293:32656](-)	-1;-1;-1	missense;synonymous;missense	2;3;1	GTG;CGT;TGG	GGG;CGG;GGG	V;R;W	G;R;G	90;12;111	E4;E4;E4	ORF 6/7 protein;34 kDa protein;ORF4 protein
+AINWZDOG001_S37	GU191019.1	32843	A	G	207.417	15	33	SNV	CDS	E4	ORF3 protein	[32662:33013](-)	-1	missense	3	TTA	TTC	L	F	57	E4	ORF3 protein
+AINWZDOG001_S37	GU191019.1	33235	A	G	225.421	27	34	SNV	CDS	E4	ORF2 protein	[33009:33405](-)	-1	synonymous	3	CCA	CCC	P	P	57	E4	ORF2 protein
+AINWZDOG001_S37	GU191019.1	33271	A	G	225.417	25	35	SNV	CDS	E4	ORF2 protein	[33009:33405](-)	-1	synonymous	3	GTA	GTC	V	V	45	E4	ORF2 protein
+AINWZDOG001_S37	GU191019.1	33629	T	C	225.417	17	55	SNV	CDS	E4	ORF1 protein	[33436:33820](-)	-1	missense	3	AGT	AGG	S	R	64	E4	ORF1 protein
+AINWZDOG001_S37	GU191019.1	33674	A	G	225.417	17	56	SNV	CDS	E4	ORF1 protein	[33436:33820](-)	-1	synonymous	3	GTA	GTC	V	V	49	E4	ORF1 protein
+AINWZDOG001_S37	GU191019.1	33701	C	T	225.417	23	56	SNV	CDS	E4	ORF1 protein	[33436:33820](-)	-1	synonymous	3	GGC	GGA	G	G	40	E4	ORF1 protein
+AINWZDOG001_S37	GU191019.1	33743	G	A	225.417	31	60	SNV	CDS	E4	ORF1 protein	[33436:33820](-)	-1	missense	3	TTG	TTT	L	F	26	E4	ORF1 protein

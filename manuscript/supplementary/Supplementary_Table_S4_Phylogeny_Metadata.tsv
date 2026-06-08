@@ -1,0 +1,24 @@
+accession_or_id	label	group	virus_type	lineage	host	country_or_region	year	source_role	include_in_tree	notes
+AIAMA_GOT005_OS_S43__AdV12_like_consensus	Goat_AdV12_like_consensus	Study_consensus	AdV-12-like	Human mastadenovirus A-like	Goat	Nigeria	2025_or_2026	study_genome	yes	Near-complete genome; 96.5% breadth; 98.492% identity to X73487.1
+AINWZDOG001_S37__AdV18_like_consensus	Dog_AdV18_like_consensus	Study_consensus	AdV-18-like	Human mastadenovirus A-like	Dog	Nigeria	2025_or_2026	study_genome	yes	Near-complete genome; 98.06% breadth; 98.973% identity to GU191019.1
+MN901805.1	HAdV12_MN901805	AdV12_closest_hit	Human adenovirus 12	Human mastadenovirus A	Human	Unknown	2018	GenBank_closest_hit	yes	Top complete-genome nt hit for goat consensus
+PP068617.1	HAdV12_USA_8B8_2011	AdV12_closest_hit	Human adenovirus 12	Human mastadenovirus A	Human	USA	2011	GenBank_closest_hit	yes	High-coverage USA complete genome
+PP068616.1	HAdV12_USA_8B9_2011	AdV12_closest_hit	Human adenovirus 12	Human mastadenovirus A	Human	USA	2011	GenBank_closest_hit	yes	High-coverage USA complete genome
+PQ336882.1	HAdV12_Kenya_2023	AdV12_Africa_context	Human adenovirus 12	Human mastadenovirus A	Human	Kenya	2023	African_context	yes	Partial African contextual AdV-12 sequence
+KX868289.2	HAdV12_GyK010	AdV12_closest_hit	Human adenovirus 12	Human mastadenovirus A	Human	Unknown	Unknown	GenBank_closest_hit	yes	High-identity hit with split alignment
+OR609364.1	HAdV18_OR609364	AdV18_closest_hit	Human adenovirus 18	Human mastadenovirus A	Human	Unknown	Unknown	GenBank_closest_hit	yes	Top high-coverage complete AdV-18 hit
+GU191019.1	HAdV18_DC_reference	AdV18_reference	Human adenovirus 18	Human mastadenovirus A	Human	Unknown	Unknown	core_reference	yes	Original AdV-18 reference used for mapping and validation
+PX485696.1	HAdV18_Tanzania_DOM01724	AdV18_Africa_context	Human adenovirus 18	Human mastadenovirus A	Human	Tanzania	Unknown	African_context	yes	African contextual AdV-18 complete genome from Dodoma
+PX485695.1	HAdV18_Tanzania_DOM01251	AdV18_Africa_context	Human adenovirus 18	Human mastadenovirus A	Human	Tanzania	Unknown	African_context	yes	African contextual AdV-18 complete genome from Dodoma
+X73487.1	HAdV12_X73487_reference	Original_comparator	Human adenovirus 12	Human mastadenovirus A	Human	Unknown	Unknown	core_reference	yes	Original AdV-12 reference used for mapping and validation
+JN226752.1	HAdV25_reference	Original_comparator	Human adenovirus 25	Human mastadenovirus D	Human	Unknown	Unknown	comparator	yes	Comparator reference
+AC_000007.1	HAdV2_reference	Original_comparator	Human adenovirus 2	Human mastadenovirus C	Human	Unknown	Unknown	comparator	yes	Comparator reference
+MG925783.1	HAdV41_reference	Original_comparator	Human adenovirus 41	Human mastadenovirus F	Human	Unknown	Unknown	comparator	yes	Enteric adenovirus comparator
+NC_001460.1	HAdV_A_RefSeq	Additional_HAdV_A_reference	Human adenovirus A / AdV-12-derived RefSeq	Human mastadenovirus A	Human	Unknown	2000	additional_reference	yes	RefSeq derived from X73487; useful as curated AdV-A reference context
+PX905700.1	HAdV_A_AS51_wastewater	Additional_HAdV_A_context	Human mastadenovirus A	Human mastadenovirus A	Human/wastewater	Bulgaria	2026	wastewater_context	yes	Recent wastewater-derived Human mastadenovirus A genome
+AC_000003.1	Canine_adenovirus_1	Outgroup	Canine adenovirus 1	Mastadenovirus canidae	Dog	Unknown	Unknown	outgroup	yes	Non-human mammalian mastadenovirus outgroup
+AC_000020.1	Canine_adenovirus_2	Outgroup	Canine adenovirus 2	Mastadenovirus canidae	Dog	Unknown	Unknown	outgroup	yes	Second canine mastadenovirus outgroup
+NC_001876.1	Bovine_adenovirus_3	Outgroup	Bovine adenovirus 3	Mastadenovirus bostertium	Cattle	Canada	Unknown	outgroup	yes	Non-human livestock mastadenovirus outgroup
+OQ744647.1	HAdV31_China_RV388_P6	Additional_HAdV_A_context	Human adenovirus 31	Human mastadenovirus A	Human	China	2015	additional_reference	yes	AdV-31 complete genome; expands Human mastadenovirus A diversity
+MN901806.1	HAdV61_A61ONP01Cu1Sep2018	Additional_HAdV_A_context	Human adenovirus 61	Human mastadenovirus A	Human	Canada	2018	additional_reference	yes	AdV-61 complete genome; expands Human mastadenovirus A diversity
+JF964962.1	HAdV61_Japan_2004_5082	Additional_HAdV_A_context	Human adenovirus 61	Human mastadenovirus A	Human	Japan	2004	additional_reference	yes	Additional AdV-61 genome; useful replicate/context sequence

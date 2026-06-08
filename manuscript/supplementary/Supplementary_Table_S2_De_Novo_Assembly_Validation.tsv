@@ -1,0 +1,7 @@
+sample_id	contig_id	contig_length	best_hit	percent_identity	alignment_length	bitscore	interpretation
+AIAMA_GOT005_OS_S43	k141_189326	9832	AIAMA_GOT005_OS_S43__AdV12_like_consensus	99.908	9738	17932	Largest AdV-12-like de novo contig
+AIAMA_GOT005_OS_S43	k141_181011	5672	AIAMA_GOT005_OS_S43__AdV12_like_consensus	99.964	5507	10159	Independent AdV-12-like contig
+AIAMA_GOT005_OS_S43	k141_51662	4884	AIAMA_GOT005_OS_S43__AdV12_like_consensus	100.000	4869	8992	Independent AdV-12-like contig
+AINWZDOG001_S37	k141_551005	11793	AINWZDOG001_S37__AdV18_like_consensus	99.974	11683	21557	Largest AdV-18-like de novo contig
+AINWZDOG001_S37	k141_282468	7428	AINWZDOG001_S37__AdV18_like_consensus	99.838	7417	13622	Independent AdV-18-like contig
+AINWZDOG001_S37	k141_59864	5418	AINWZDOG001_S37__AdV18_like_consensus	99.717	3534	6466	Independent AdV-18-like contig
