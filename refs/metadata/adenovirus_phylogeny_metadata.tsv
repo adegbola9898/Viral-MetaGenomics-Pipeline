@@ -22,3 +22,13 @@ NC_001876.1	Bovine_adenovirus_3	Outgroup	Bovine adenovirus 3	Mastadenovirus bost
 OQ744647.1	HAdV31_China_RV388_P6	Additional_HAdV_A_context	Human adenovirus 31	Human mastadenovirus A	Human	China	2015	additional_reference	yes	AdV-31 complete genome; expands Human mastadenovirus A diversity
 MN901806.1	HAdV61_A61ONP01Cu1Sep2018	Additional_HAdV_A_context	Human adenovirus 61	Human mastadenovirus A	Human	Canada	2018	additional_reference	yes	AdV-61 complete genome; expands Human mastadenovirus A diversity
 JF964962.1	HAdV61_Japan_2004_5082	Additional_HAdV_A_context	Human adenovirus 61	Human mastadenovirus A	Human	Japan	2004	additional_reference	yes	Additional AdV-61 genome; useful replicate/context sequence
+ON128719	HAdV40_Nigeria_1	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128720	HAdV40_Nigeria_2	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128721	HAdV40_Nigeria_3	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128722	HAdV40_Nigeria_4	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128723	HAdV40_Nigeria_5	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128724	HAdV40_Nigeria_6	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128725	HAdV40_Nigeria_7	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128726	HAdV40_Nigeria_8	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128727	HAdV40_Nigeria_9	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
+ON128728	HAdV40_Nigeria_10	AdV40_Nigeria_context	Human adenovirus 40	Human mastadenovirus F	Human	Nigeria	2022_or_2023	African_clinical_context	yes	Nigerian paediatric diarrhoea study sequence
